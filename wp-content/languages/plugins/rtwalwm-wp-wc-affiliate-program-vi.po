@@ -1,0 +1,2060 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Affilia - Affiliate Program with MLM\n"
+"POT-Creation-Date: 2024-06-01 16:54+0530\n"
+"PO-Revision-Date: 2024-08-20 14:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.11; wp-6.6.1"
+
+#: public/templates/rtwalwm_affiliate_body.php:508
+msgid " Copy and paste the code into your Website"
+msgstr "Sao chép và dán mã vào Trang web của bạn"
+
+#: public/templates/rtwalwm_affiliate_body.php:506
+msgid " x "
+msgstr "x"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:67
+msgid "\"In PRO you can add more than 3 levels\""
+msgstr "\"Trong PRO bạn có thể thêm nhiều hơn 3 cấp độ\""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:10
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:94
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:144
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:440
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:743
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:990
+#: public/templates/rtwalwm_affiliate_body.php:9
+msgid "&#36;"
+msgstr "$"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:163
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:350
+msgid "(End date)"
+msgstr "(Ngày kết thúc)"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:156
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:343
+msgid "(Start date)"
+msgstr "(Ngày bắt đầu)"
+
+#: public/templates/rtwalwm_affiliate_body.php:102
+msgid "10$"
+msgstr "10$"
+
+#: public/templates/rtwalwm_affiliate_body.php:124
+msgid "15$"
+msgstr "15$"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:732
+msgid "24-11-22"
+msgstr "24-11-22"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:754
+msgid "26-11-22"
+msgstr "26-11-22"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:776
+msgid "27-11-22"
+msgstr "27-11-22"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_footer.php:14
+msgid "5-Stars Rating"
+msgstr "Xếp hạng 5 sao"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:418
+msgid ""
+"[ Note : When \"REFFERAL CODE\" is selected as Signup Bonus Type then "
+"\"REFFERAL LINK(s)\" will not be used for Commission Generation, Signup "
+"Bonus and adding member to MLM chain ]"
+msgstr ""
+"[ Lưu ý: Khi \"MÃ GIỚI THIỆU\" được chọn làm Loại tiền thưởng đăng ký thì "
+"\"(các) LIÊN KẾT GIỚI THIỆU\" sẽ không được sử dụng để tạo hoa hồng, tiền "
+"thưởng đăng ký và thêm thành viên vào chuỗi MLM ]"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "A new withdrawal request is generated of amount"
+msgstr "Một yêu cầu rút tiền mới được tạo ra với số tiền"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:21
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:48
+msgid "Action"
+msgstr "Hoạt động"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:56
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:160
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:21
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:58
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:23
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:40
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:44
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:222
+msgid "Actions"
+msgstr "Hành Động"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:705
+msgid "Actions "
+msgstr "Hành Động"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:517
+msgid "Activate Generation of Coupons"
+msgstr "Kích hoạt tạo phiếu giảm giá"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:13
+msgid "Activate MLM"
+msgstr "Kích hoạt MLM"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:541
+msgid "Activate Paypal"
+msgstr "Kích hoạt Paypal"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:612
+msgid "Activate Paystack"
+msgstr "Kích hoạt Paystack"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:576
+msgid "Activate Stripe"
+msgstr "Kích hoạt sọc"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:227
+msgid ""
+"Activate this feature if you want to check whether this user can be "
+"affiliate or not"
+msgstr ""
+"Kích hoạt tính năng này nếu bạn muốn kiểm tra xem người dùng này có thể liên "
+"kết hay không"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:246
+msgid ""
+"Activate this feature if you want to get mails when a commission is generated"
+msgstr "Kích hoạt tính năng này nếu bạn muốn nhận thư khi hoa hồng được tạo"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:154
+msgid "Activate to show under WooCommerce->My Account"
+msgstr "Kích hoạt để hiển thị trong WooC Commerce-> Tài khoản của tôi"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:20
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:47
+msgid "Activate/Deactivate"
+msgstr "Kích hoạt/Tắt kích hoạt"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:604
+msgid "Add Commission"
+msgstr "Thêm hoa hồng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:305
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:12
+msgid "Add Manual Referral"
+msgstr "Thêm giới thiệu thủ công"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:22
+msgid "Add New Affiliate"
+msgstr "Thêm liên kết mới"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:7
+msgid "Add new Banner"
+msgstr "Thêm biểu ngữ mới"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:6
+msgid "Add New Level"
+msgstr "Thêm cấp độ mới"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:683
+msgid "Add New Rank"
+msgstr "Thêm thứ hạng mới"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:633
+msgid "Add Notification"
+msgstr "Thêm thông báo"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:178
+msgid "Add-ons"
+msgstr "Tiện ích bổ sung"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:235
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:445
+msgid "Add/Remove row"
+msgstr "Thêm/Xóa hàng"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:119
+msgid "Affiliaa - Affiliate Program with MLM"
+msgstr "Affiliaa - Chương trình liên kết với MLM"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:241
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:417
+msgid "Affiliaa - WordPress & WooCommerce Affiliate Program"
+msgstr "Affiliaa - Chương trình liên kết WordPress & WooC Commerce"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_footer.php:4
+msgid "Affiliaa - WordPress & WooCommerce Affiliate Program By"
+msgstr "Affiliaa - Chương trình liên kết WordPress & WooC Commerce của"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:241
+msgid "Affiliaa Lite"
+msgstr "Liên kết Lite"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:26
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:156
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:30
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:210
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:326
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:164
+msgid "Affiliate"
+msgstr "liên kết"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:333
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:434
+msgid "Affiliate Level"
+msgstr "Cấp độ liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:67
+msgid "Affiliate Login page"
+msgstr "Trang đăng nhập liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:110
+msgid "Affiliate Page Template "
+msgstr "Mẫu trang liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:89
+msgid "Affiliate Signup page "
+msgstr "Trang đăng ký liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:212
+msgid "Affiliate Verification"
+msgstr "Xác minh liên kết"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:127
+msgid "Affiliates"
+msgstr "chi nhánh"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:510
+msgid "After Activating this , Own referral commission will be generated"
+msgstr "Sau khi kích hoạt tính năng này, hoa hồng giới thiệu riêng sẽ được tạo"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:536
+msgid ""
+"After Activating this , you can generate Coupons of amount that you have in "
+"your wallet .This option is currently available for WooCommerce only "
+msgstr ""
+"Sau khi kích hoạt tính năng này, bạn có thể tạo Phiếu giảm giá với số tiền "
+"bạn có trong ví của mình. Tùy chọn này hiện chỉ khả dụng cho WooC Commerce"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:483
+msgid ""
+"After Enabling this, you can give commission to users which is referred by "
+"affiliate. Commission for user can set from product edit page. Only Product "
+"Wise Commission is Availiable. "
+msgstr ""
+"Sau khi kích hoạt tính năng này, bạn có thể trả hoa hồng cho người dùng được "
+"giới thiệu bởi đơn vị liên kết. Hoa hồng cho người dùng có thể được đặt từ "
+"trang chỉnh sửa sản phẩm. Chỉ có hoa hồng thông minh về sản phẩm."
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:209
+msgid "All Features Listed Below are Available in PRO Version"
+msgstr ""
+"Tất cả các tính năng được liệt kê bên dưới đều có sẵn trong phiên bản PRO"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:491
+msgid "Allow Own Referrals"
+msgstr "Cho phép giới thiệu riêng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:25
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:97
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:28
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:158
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:41
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:219
+#: public/templates/rtwalwm_affiliate_body.php:79
+msgid "Amount"
+msgstr "Số lượng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:504
+msgid "Amount Limit"
+msgstr "Giới hạn số tiền"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "An affiliate is Requested to be an affiliate of your site"
+msgstr ""
+"Một chi nhánh được yêu cầu trở thành một chi nhánh của trang web của bạn"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:162
+msgid "Approve"
+msgstr "Chấp thuận"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:31
+msgid "Approve all marked Affiliates"
+msgstr "Phê duyệt tất cả các chi nhánh được đánh dấu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:7
+msgid "Approve all marked Referrals"
+msgstr "Phê duyệt tất cả các giới thiệu được đánh dấu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:172
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:723
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:791
+msgid "Approved"
+msgstr "Tán thành"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:69
+#: public/templates/rtwalwm_affiliate_body.php:49
+msgid "Approved Commission"
+msgstr "Ủy ban được phê duyệt"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:202
+msgid "Are you sure that you have completed this bank transfer?"
+msgstr ""
+"Bạn có chắc chắn rằng bạn đã hoàn tất việc chuyển khoản ngân hàng này không?"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:205
+msgid ""
+"Are you sure to approve all the Referrals? It can't be reverted back once "
+"approved"
+msgstr ""
+"Bạn có chắc chắn chấp thuận tất cả các lượt giới thiệu không? Nó không thể "
+"được hoàn nguyên sau khi được phê duyệt"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:204
+msgid ""
+"Are you sure to approve this Referral? It can't be reverted back once "
+"approved"
+msgstr ""
+"Bạn có chắc chắn chấp thuận Lời giới thiệu này không? Nó không thể được hoàn "
+"nguyên sau khi được phê duyệt"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:208
+msgid ""
+"Are you sure to reject all the Referrals? It can't be reverted back once "
+"rejected"
+msgstr ""
+"Bạn có chắc chắn từ chối tất cả các lượt giới thiệu không? Nó không thể được "
+"hoàn nguyên sau khi bị từ chối"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:206
+msgid ""
+"Are you sure to reject this Referral? It can't be reverted back once rejected"
+msgstr ""
+"Bạn có chắc chắn từ chối Lời giới thiệu này không? Nó không thể được hoàn "
+"nguyên sau khi bị từ chối"
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:140
+msgid "Are you sure to send the request?"
+msgstr "Bạn có chắc chắn gửi yêu cầu không?"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:125
+msgid "Bank Details"
+msgstr "Chi tiết ngân hàng"
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:1010
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:1028
+msgid "Banner"
+msgstr "Ngọn cờ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:18
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:55
+msgid "Banner Image"
+msgstr "Hình ảnh biểu ngữ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:87
+msgid "Banner – 468 x 60- PRO"
+msgstr "Biểu ngữ – 468 x 60- PRO"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:68
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:420
+msgid "Become Affiliate"
+msgstr "Trở thành liên kết"
+
+#: public/templates/rtwalwm_affiliate.php:52
+#: public/templates/rtwalwm_affiliate.php:61
+msgid "Become an Affiliate"
+msgstr "Trở thành một chi nhánh"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "Become an affiliate Email"
+msgstr "Trở thành một Email liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:318
+msgid "Benefits for being an Affiliate"
+msgstr "Lợi ích khi trở thành Affiliate"
+
+#: public/templates/rtwalwm_affiliate.php:72
+msgid "Benefits of becoming our Affiliate"
+msgstr "Lợi ích của việc trở thành chi nhánh của chúng tôi"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:44
+msgid "Binary"
+msgstr "nhị phân"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:14
+msgid "Bonus"
+msgstr "Thưởng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:719
+msgid "Bronze"
+msgstr "Đồng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:170
+msgid "By Default USD will be used"
+msgstr "Theo mặc định USD sẽ được sử dụng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:110
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:809
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:194
+msgid "Capped"
+msgstr "Giới hạn"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:84
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:226
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:295
+msgid "Categories"
+msgstr "Thể loại"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:72
+msgid "Child"
+msgstr "Đứa trẻ"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:189
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:116
+msgid "Clear"
+msgstr "Thông thoáng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:555
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:567
+msgid "Client ID"
+msgstr "ID khách hàng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:558
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:570
+msgid "Client Secret"
+msgstr "Bí mật khách hàng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:21
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:38
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:16
+msgid "Commission"
+msgstr "Nhiệm vụ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:137
+msgid "Commission Amount"
+msgstr "Số tiền hoa hồng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:49
+msgid "Commission amount"
+msgstr "số tiền hoa hồng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:13
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:10
+msgid "Commission Based on"
+msgstr "Hoa hồng dựa trên"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:40
+msgid "Commission for All Products"
+msgstr "Hoa hồng cho tất cả sản phẩm"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:440
+msgid "Commission for only the URL opened?"
+msgstr "Hoa hồng chỉ cho URL được mở?"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:575
+msgid "Commission for this product is updated"
+msgstr "Hoa hồng cho sản phẩm này được cập nhật"
+
+#: public/templates/rtwalwm_affiliate_body.php:86
+msgid "Commission From"
+msgstr "Hoa hồng từ"
+
+#: public/templates/rtwalwm_affiliate_body.php:173
+msgid "Commission on all Products"
+msgstr "Hoa hồng trên tất cả các sản phẩm"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:217
+msgid "Commission per Category"
+msgstr "Hoa hồng theo danh mục"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:178
+msgid "Commission per Product"
+msgstr "Hoa hồng trên mỗi sản phẩm"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:140
+msgid "Commission Setting"
+msgstr "Cài đặt hoa hồng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:46
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:134
+msgid "Commission Type"
+msgstr "Loại hoa hồng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:20
+msgid "Contact Our Support Through"
+msgstr "Liên hệ với bộ phận hỗ trợ của chúng tôi thông qua"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:414
+msgid "Cookie ( Default )"
+msgstr "Cookie (Mặc định)"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:257
+msgid "Cookie Expiration"
+msgstr "Hết hạn cookie"
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:136
+#: public/templates/rtwalwm_affiliate_body.php:354
+#: public/templates/rtwalwm_affiliate_body.php:509
+msgid "Copied"
+msgstr "Đã sao chép"
+
+#: public/templates/rtwalwm_affiliate_body.php:510
+msgid "COPY HTML"
+msgstr "SAO CHÉP HTML"
+
+#: public/templates/rtwalwm_affiliate_body.php:353
+msgid "Copy link"
+msgstr "Sao chép liên kết"
+
+#: public/templates/rtwalwm_affiliate_body.php:397
+msgid "Create banners"
+msgstr "Tạo biểu ngữ"
+
+#: public/templates/rtwalwm_affiliate_body.php:358
+msgid "Create QR Code"
+msgstr "Tạo mã QR"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:57
+msgid "Criteria"
+msgstr "Tiêu chuẩn"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:192
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:119
+msgid "Current Color"
+msgstr "Màu hiện tại"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:174
+msgid "Custom Banner"
+msgstr "Biểu ngữ tùy chỉnh"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:283
+msgid "Custom css"
+msgstr "CSS tùy chỉnh"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:133
+msgid "Customize Email"
+msgstr "Tùy chỉnh email"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:516
+msgid "Daily Limit"
+msgstr "Giới hạn hàng ngày"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:123
+msgid "Dashboard Overview"
+msgstr "Tổng quan về trang tổng quan"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:42
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:220
+#: public/templates/rtwalwm_affiliate_body.php:82
+msgid "Date"
+msgstr "Ngày"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:708
+msgid "Date "
+msgstr "Ngày"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:93
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:304
+msgid "Date Range"
+msgstr "Phạm vi ngày"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:190
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:117
+msgid "Default"
+msgstr "Mặc định"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:88
+msgid "Default Commission for a Level"
+msgstr "Hoa hồng mặc định cho một cấp độ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:729
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:751
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:773
+msgid "delete"
+msgstr "xóa bỏ"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:815
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:899
+msgid "Deleted"
+msgstr "Đã xóa"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:63
+msgid "Depth"
+msgstr "Độ sâu"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:201
+msgid "Details not filled"
+msgstr "Chi tiết chưa được điền"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:46
+msgid "Difference Between Direct commission & MLM commission."
+msgstr "Sự khác biệt giữa hoa hồng trực tiếp và hoa hồng MLM."
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:200
+msgid "Digits Only"
+msgstr "Chỉ chữ số"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:50
+msgid ""
+"Direct commission is provide to the Affiliates and MLM level commission "
+"provided to the parent of affiliate. Direct commission will set from "
+"commission tab and MLM commission will set from commission tab   "
+msgstr ""
+"Hoa hồng trực tiếp được cung cấp cho Chi nhánh và hoa hồng cấp MLM được cung "
+"cấp cho công ty mẹ của chi nhánh. Hoa hồng trực tiếp sẽ được đặt từ tab hoa "
+"hồng và hoa hồng MLM sẽ được đặt từ tab hoa hồng   "
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_footer.php:11
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:9
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: public/templates/rtwalwm_affiliate_body.php:393
+msgid "Download QR"
+msgstr "Tải xuống mã QR"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:322
+#: public/templates/rtwalwm_affiliate.php:63
+msgid ""
+"Earn extra money just by marketing our products with our affiliate tools"
+msgstr ""
+"Kiếm thêm tiền chỉ bằng cách tiếp thị sản phẩm của chúng tôi bằng các công "
+"cụ liên kết của chúng tôi"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:322
+#: public/templates/rtwalwm_affiliate.php:63
+msgid "Earn wallet amount to buy products on our site"
+msgstr "Kiếm số tiền ví để mua sản phẩm trên trang web của chúng tôi"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:728
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:750
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:772
+msgid "edit"
+msgstr "biên tập"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:55
+msgid "Edit Email"
+msgstr "Sửa Email"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:50
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:156
+#: public/templates/rtwalwm_affiliate_body.php:462
+#: public/templates/rtwalwm_affiliate_body.php:463
+msgid "Email"
+msgstr "E-mail"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "Email on Generating Commission"
+msgstr "Email về hoa hồng tạo ra"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "Email on Generating MLM Commission"
+msgstr "Email về việc tạo hoa hồng MLM"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "Email on Withdral Request"
+msgstr "Email về yêu cầu rút tiền"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:18
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:45
+msgid "Email type"
+msgstr "Loại email"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:464
+msgid "Enable Two Way Commission"
+msgstr "Kích hoạt hoa hồng hai chiều"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:365
+msgid "Enter Affilate Tools Label"
+msgstr "Nhập nhãn công cụ liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:551
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:567
+msgid "Enter Amount"
+msgstr "Nhập số tiền"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:427
+msgid "Enter Amount to be given for referral signup (By default 0)"
+msgstr "Nhập số tiền được cấp khi đăng ký giới thiệu (Theo mặc định là 0)"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:490
+msgid ""
+"Enter Amount to be given for Sharing a product on social media (By default 0)"
+msgstr ""
+"Nhập Số tiền được nhận để chia sẻ sản phẩm trên mạng xã hội (Theo mặc định "
+"là 0)"
+
+#: public/templates/rtwalwm_affiliate_body.php:349
+msgid "Enter any product's URL from this website"
+msgstr "Nhập URL của bất kỳ sản phẩm nào từ trang web này"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:301
+msgid "Enter Become an Affiliate button Title"
+msgstr "Nhập nút Trở thành đơn vị liên kết Tiêu đề"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:313
+msgid "Enter Benefits Section Title"
+msgstr "Nhập tiêu đề phần quyền lợi"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:69
+msgid "Enter Commission (By default 0)"
+msgstr "Nhập hoa hồng (Theo mặc định 0)"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:356
+msgid "Enter Commission Label"
+msgstr "Nhập nhãn hoa hồng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:260
+msgid ""
+"Enter Days after which referral cookie will expire ( Note: 0 days means "
+"cookie will expire when the browser will be closed )"
+msgstr ""
+"Nhập Ngày sau đó cookie giới thiệu sẽ hết hạn (Lưu ý: 0 ngày có nghĩa là "
+"cookie sẽ hết hạn khi đóng trình duyệt)"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:374
+msgid "Enter Download Label"
+msgstr "Nhập nhãn tải xuống"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:384
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:43
+msgid "Enter Fees to be deducted while payouts (By default 0)"
+msgstr "Nhập Phí sẽ được khấu trừ trong khi thanh toán (Theo mặc định là 0)"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:370
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:32
+msgid "Enter Max. Commission (By default 0, that means unlimited commission)"
+msgstr ""
+"Nhập tối đa. Hoa hồng (Theo mặc định là 0, nghĩa là hoa hồng không giới hạn)"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:803
+msgid "enter Notification message"
+msgstr "nhập tin nhắn thông báo"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:801
+msgid "enter Notification title"
+msgstr "nhập tiêu đề thông báo"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:347
+msgid "Enter Overview Label"
+msgstr "Nhập nhãn tổng quan"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:383
+msgid "Enter Payout Label"
+msgstr "Nhập nhãn thanh toán"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:392
+msgid "Enter Profile Label"
+msgstr "Nhập nhãn hồ sơ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:79
+msgid "Enter Target URL"
+msgstr "Nhập URL mục tiêu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:532
+msgid ""
+"Enter Time and Amount after which Affiliate will not get the share bonus"
+msgstr ""
+"Nhập Thời gian và Số tiền sau đó Chi nhánh sẽ không nhận được tiền thưởng "
+"chia sẻ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:366
+msgid "Enter title for Tab Affiliate Tools in Affilate Dashboard Panel"
+msgstr "Nhập tiêu đề cho Tab Công cụ liên kết trong Bảng điều khiển liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:357
+msgid "Enter title for Tab Commission in Affilate Dashboard Panel"
+msgstr "Nhập tiêu đề cho Tab Hoa hồng trong Bảng điều khiển liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:375
+msgid "Enter title for Tab Download in Affilate Dashboard Panel"
+msgstr "Nhập tiêu đề cho Tải xuống tab trong Bảng điều khiển liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:348
+msgid "Enter title for Tab Overview in Affilate Dashboard Panel"
+msgstr "Nhập tiêu đề cho Tab Tổng quan trong Bảng điều khiển liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:384
+msgid "Enter title for Tab Payout in Affilate Dashboard Panel"
+msgstr "Nhập tiêu đề cho Tab Thanh toán trong Bảng điều khiển liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:393
+msgid "Enter title for Tab Profile in Affilate Dashboard Panel"
+msgstr "Nhập tiêu đề cho Hồ sơ Tab trong Bảng điều khiển liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:182
+msgid "Enter Upto decimal places"
+msgstr "Nhập đến số thập phân"
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:134
+msgid "Enter valid Link"
+msgstr "Nhập liên kết hợp lệ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:804
+msgid "Enter your reason here within 100 words..."
+msgstr "Nhập lý do của bạn vào đây trong vòng 100 từ..."
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:165
+msgid "Extra Features"
+msgstr "Tính năng bổ sung"
+
+#: public/templates/rtwalwm_affiliate_body.php:378
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:865
+msgid "Failed to upload"
+msgstr "Không thể tải lên"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:77
+msgid "File does not exist or invalid file path."
+msgstr "Tệp không tồn tại hoặc đường dẫn tệp không hợp lệ."
+
+#: public/templates/rtwalwm_affiliate_body.php:465
+#: public/templates/rtwalwm_affiliate_body.php:466
+msgid "First Name"
+msgstr "Tên"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:63
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:37
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:111
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:152
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:180
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:207
+msgid "Fixed"
+msgstr "Đã sửa"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:495
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:625
+msgid "Fixed Commission"
+msgstr "Hoa hồng cố định"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:90
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:182
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:232
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:301
+msgid "Fixed Price"
+msgstr "Giá cố định"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:120
+msgid "for"
+msgstr "vì"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:47
+msgid "Forced Matrix"
+msgstr "Ma trận cưỡng bức"
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:908
+msgid "From"
+msgstr "Từ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:12
+msgid "General"
+msgstr "Tổng quan"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:25
+msgid "Generate Affiliate CSV"
+msgstr "Tạo CSV liên kết"
+
+#: public/templates/rtwalwm_affiliate_body.php:351
+msgid "Generate link"
+msgstr "Tạo liên kết"
+
+#: public/templates/rtwalwm_affiliate_body.php:347
+msgid "Generate links"
+msgstr "Tạo liên kết"
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:915
+msgid "Generated a new MLM commission of amount"
+msgstr "Đã tạo số tiền hoa hồng MLM mới"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "Generated a new referral of amount"
+msgstr "Đã tạo số tiền giới thiệu mới"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:33
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:202
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:210
+msgid "Get it now"
+msgstr "Nhận nó ngay bây giờ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:763
+msgid "Gold"
+msgstr "Vàng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:93
+msgid "Half-Page Ad – 300 x 600- PRO"
+msgstr "Quảng cáo nửa trang – 300 x 600- PRO"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:182
+msgid "Help"
+msgstr "Giúp đỡ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:189
+msgid "Hide Login Form"
+msgstr "Ẩn biểu mẫu đăng nhập"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:201
+msgid "Hide Registration Form"
+msgstr "Ẩn mẫu đăng ký"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:59
+msgid "How does binary MLM works?"
+msgstr "MLM nhị phân hoạt động như thế nào?"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:64
+msgid "How does forced matrix works?"
+msgstr "Ma trận bắt buộc hoạt động như thế nào?"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:83
+msgid "How many childs a User can have?"
+msgstr "Người dùng có thể có bao nhiêu con?"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:66
+msgid "How many levels does this MLM can have? ( Note: By Default 1 )"
+msgstr "MLM này có thể có bao nhiêu cấp độ? ( Lưu ý: Mặc định 1 )"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:69
+msgid "How to Deactivate/Activate plugin from one domain to another?"
+msgstr ""
+"Làm cách nào để vô hiệu hóa/kích hoạt plugin từ tên miền này sang tên miền "
+"khác?"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:46
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:153
+msgid "ID"
+msgstr "NHẬN DẠNG"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:71
+msgid ""
+"If you want to remove it from current domain then at top right corner you "
+"will find a button \"Remove purchase code\". So remove purchase code from "
+"current domain using that button and then install it on new domain"
+msgstr ""
+"Nếu bạn muốn xóa nó khỏi tên miền hiện tại thì ở góc trên cùng bên phải, bạn "
+"sẽ tìm thấy nút \"Xóa mã mua hàng\". Vì vậy, hãy xóa mã mua hàng khỏi tên "
+"miền hiện tại bằng nút đó và sau đó cài đặt nó trên tên miền mới"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:20
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:57
+msgid "Image Size"
+msgstr "Kích thước hình ảnh"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:211
+msgid ""
+"Image width or height is not matching with selected Image WIDTH x HEIGHT"
+msgstr ""
+"Chiều rộng hoặc chiều cao của hình ảnh không khớp với hình ảnh WIDTH x "
+"HEIGHT đã chọn"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:61
+msgid ""
+"In Binary MLM an affiliate can have maximum 2 children under them and "
+"affiliate start receiving MLM commission when then cycle is complete. A "
+"cycle is complete when an affiliate register 2 user under them if there is "
+"only one user then affiliate did not receive any MLM commission"
+msgstr ""
+"Trong MLM nhị phân, một chi nhánh có thể có tối đa 2 con dưới họ và chi "
+"nhánh bắt đầu nhận hoa hồng MLM khi chu kỳ hoàn tất. Một chu kỳ hoàn tất khi "
+"một đơn vị liên kết đăng ký 2 người dùng dưới họ nếu chỉ có một người dùng "
+"thì đơn vị liên kết không nhận được bất kỳ khoản hoa hồng MLM nào"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:66
+msgid ""
+"In forced matrix user have to register number of children under them enter "
+"by admin if admin set 5 number of maximum child then affiliate are forced to "
+"register 5 number of children under them to start earning MLM commission"
+msgstr ""
+"Trong ma trận bắt buộc, người dùng phải đăng ký số lượng con dưới quyền của "
+"họ do quản trị viên nhập nếu quản trị viên đặt tối đa 5 số con thì chi nhánh "
+"buộc phải đăng ký 5 số con dưới quyền họ để bắt đầu kiếm hoa hồng MLM"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:442
+msgid "Incentive"
+msgstr "Khích lệ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:89
+msgid "Inline Rectangle – 300 x 250- PRO"
+msgstr "Hình chữ nhật nội tuyến – 300 x 250- PRO"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:71
+msgid "Invalid file name."
+msgstr "Tên tập tin không hợp lệ."
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:458
+msgid ""
+"It will only work with Referral Links and when Unlimited/Lifetime is not set."
+" That means if you are using Referral Code than this functionality will not "
+"work."
+msgstr ""
+"Nó sẽ chỉ hoạt động với Liên kết giới thiệu và khi Không giới hạn/Trọn đời "
+"không được đặt. Điều đó có nghĩa là nếu bạn đang sử dụng Mã giới thiệu thì "
+"chức năng này sẽ không hoạt động."
+
+#: public/templates/rtwalwm_affiliate_body.php:105
+msgid "January 1, 2020 12:00 am"
+msgstr "Ngày 1 tháng 1 năm 2020 12:00 sáng"
+
+#: public/templates/rtwalwm_affiliate_body.php:131
+msgid "Jordon cox"
+msgstr "Jordan cox"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:3
+msgid "Know How It Works"
+msgstr "Biết nó hoạt động như thế nào"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:362
+msgid "Label for Tab \"Affiliate Tools\""
+msgstr "Nhãn cho Tab \"Công cụ liên kết\""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:353
+msgid "Label for Tab \"Commissions\""
+msgstr "Nhãn cho Tab \"Hoa hồng\""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:371
+msgid "Label for Tab \"Download\""
+msgstr "Nhãn cho Tab \"Tải xuống\""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:344
+msgid "Label for Tab \"Overview\""
+msgstr "Nhãn cho Tab \"Tổng quan\""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:380
+msgid "Label for Tab \"Payout\""
+msgstr "Nhãn cho Tab \"Thanh toán\""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:389
+msgid "Label for Tab \"Profile\""
+msgstr "Nhãn cho Tab \"Hồ sơ\""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:13
+msgid "Labels"
+msgstr "Nhãn"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:94
+msgid "Large Leaderboard – 970 x 90- PRO"
+msgstr "Bảng xếp hạng lớn – 970 x 90- PRO"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:90
+msgid "Large Rectangle – 336 x 280- PRO"
+msgstr "Hình chữ nhật lớn – 336 x 280- PRO"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:97
+msgid "Last 5 Referrals"
+msgstr "5 lượt giới thiệu cuối cùng"
+
+#: public/templates/rtwalwm_affiliate_body.php:468
+#: public/templates/rtwalwm_affiliate_body.php:469
+msgid "Last Name"
+msgstr "Họ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:29
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:159
+msgid "Last Referral"
+msgstr "Lần giới thiệu cuối cùng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:88
+msgid "Leaderboard – 728 x 90- PRO"
+msgstr "Bảng xếp hạng – 728 x 90- PRO"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:19
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:36
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:8
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:131
+msgid "Level"
+msgstr "Mức độ"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:144
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:30
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:19
+msgid "Levels"
+msgstr "Cấp độ"
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:1009
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:1027
+msgid "Link"
+msgstr "liên kết"
+
+#: public/templates/rtwalwm_aff_login_page.php:64
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_addons.php:13
+msgid "Login Shortcode"
+msgstr "Mã ngắn đăng nhập"
+
+#: public/templates/rtwalwm_aff_login_page.php:55
+msgid "Login your Account"
+msgstr "Đăng nhập tài khoản của bạn"
+
+#: public/templates/rtwalwm_affiliate_body.php:382
+msgid "Mail"
+msgstr "Thư"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:231
+msgid "Mail to Admin"
+msgstr "Gửi thư tới quản trị viên"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:89
+msgid "Manual Referral"
+msgstr "Giới thiệu thủ công"
+
+#: public/templates/rtwalwm_affiliate_body.php:127
+msgid "March 1, 2023 12:00 am"
+msgstr "Ngày 1 tháng 3 năm 2023 12:00 sáng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:362
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:27
+msgid "Maximum commission to an Affiliate in a month"
+msgstr "Hoa hồng tối đa cho một chi nhánh trong một tháng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:557
+msgid "Minimum amount affiliate need to Withdrawal their money"
+msgstr "Số tiền tối thiểu liên kết cần rút tiền của họ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:542
+msgid "Minimum amount for Coupon generation"
+msgstr "Số tiền tối thiểu để tạo phiếu giảm giá"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:170
+msgid "MLM"
+msgstr "MLM"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:94
+msgid "MLM Bonus"
+msgstr "Tiền thưởng MLM"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:125
+msgid "MLM Levels"
+msgstr "Cấp độ MLM"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:121
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:128
+msgid "MLM not active"
+msgstr "MLM không hoạt động"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:36
+msgid "MLM Type"
+msgstr "Loại MLM"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:522
+msgid "Monthly Limit"
+msgstr "Giới hạn hàng tháng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:48
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:155
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:20
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:37
+msgid "Name"
+msgstr "Tên"
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:903
+msgid "New MLM commission"
+msgstr "Hoa hồng MLM mới"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:404
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:429
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:453
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:478
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:505
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:531
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:61
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:84
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:150
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:245
+msgid "No"
+msgstr "KHÔNG"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:121
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:260
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:329
+#: public/templates/rtwalwm_affiliate_body.php:421
+msgid "No Category"
+msgstr "Không có danh mục"
+
+#: public/templates/rtwalwm_affiliate_body.php:290
+msgid "No Commission is set on any Product"
+msgstr "Không có khoản hoa hồng nào được đặt cho bất kỳ sản phẩm nào"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:513
+msgid "No Limit"
+msgstr "Không giới hạn"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:142
+msgid "No payment method defined"
+msgstr "Không có phương thức thanh toán nào được xác định"
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:1038
+msgid "No Result Found"
+msgstr "Không tìm thấy kết quả"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:71
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:27
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:157
+msgid "No. of Referrals"
+msgstr "Số lượt giới thiệu"
+
+#: public/templates/rtwalwm_affiliate.php:47
+msgid "Not approved yet"
+msgstr "Chưa được phê duyệt"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:902
+msgid "Not Deleted"
+msgstr "Chưa xóa"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:58
+msgid ""
+"NOTE : If you change MLM Plan then you need to activate/deactivate members "
+"to make the chains according to your plan selected"
+msgstr ""
+"LƯU Ý: Nếu bạn thay đổi Gói MLM thì bạn cần kích hoạt/hủy kích hoạt thành "
+"viên để tạo chuỗi theo gói bạn đã chọn"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:203
+msgid "Nothing Marked"
+msgstr "Không có gì được đánh dấu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:17
+msgid "Notification"
+msgstr "Thông báo"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:798
+msgid "Notification Details"
+msgstr "Chi tiết thông báo"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:223
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:242
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:275
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:29
+msgid "Off"
+msgstr "Tắt"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:216
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:235
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:268
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:23
+msgid "On"
+msgstr "TRÊN"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:120
+msgid "on"
+msgstr "TRÊN"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "One new Commission is generated"
+msgstr "Một khoản hoa hồng mới được tạo ra"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "One new MLM Commission is generated"
+msgstr "Một khoản hoa hồng MLM mới được tạo ra"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:35
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:215
+msgid "Order Status"
+msgstr "Trạng thái đơn hàng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:415
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:72
+msgid "Override Referrer in Unlimited Commission"
+msgstr "Ghi đè người giới thiệu trong hoa hồng không giới hạn"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:179
+msgid "Paid"
+msgstr "Trả"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:54
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:158
+msgid "Parent Id"
+msgstr "Id gốc"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:55
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:159
+msgid "Parent Name"
+msgstr "Tên phụ huynh"
+
+#: public/templates/rtwalwm_aff_login_page.php:63
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: public/templates/rtwalwm_affiliate_body.php:109
+msgid "Paul Mercer"
+msgstr "Paul Mercer"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:135
+msgid "Pay"
+msgstr "Chi trả"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:7
+msgid "Pay marked PayPal Affiliates"
+msgstr "Thanh toán cho các chi nhánh PayPal được đánh dấu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:9
+msgid "Pay marked Stripe Affiliates"
+msgstr "Thanh toán cho các chi nhánh của Stripe được đánh dấu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:15
+msgid "Payment"
+msgstr "Sự chi trả"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:161
+msgid "Payouts"
+msgstr "Xuất chi"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:117
+msgid "Paypal"
+msgstr "Paypal"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:551
+msgid "Paypal Live"
+msgstr "Paypal trực tiếp"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:563
+msgid "Paypal Sandbox"
+msgstr "Hộp cát Paypal"
+
+#: public/templates/rtwalwm_affiliate_body.php:114
+#: public/templates/rtwalwm_affiliate_body.php:136
+msgid "Pending"
+msgstr "Chưa giải quyết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:81
+#: public/templates/rtwalwm_affiliate_body.php:52
+msgid "Pending Commission"
+msgstr "Hoa hồng đang chờ xử lý"
+
+#: public/templates/rtwalwm_affiliate_body.php:234
+msgid "Per Product Commission"
+msgstr "Hoa hồng trên mỗi sản phẩm"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:60
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:87
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:189
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:229
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:298
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:34
+msgid "Percentage"
+msgstr "Tỷ lệ phần trăm"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:201
+msgid "PERCENTAGE & PERCENTAGE+FIXED option is Available in PRO version"
+msgstr "Tùy chọn PERCENTAGE & PERCENTAGE+FIXED có sẵn trong phiên bản PRO"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:108
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:149
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:177
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:204
+msgid "Percentage (Available in PRO)"
+msgstr "Tỷ lệ phần trăm (Có sẵn trong PRO)"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:196
+msgid "Percentage + Fixed Price"
+msgstr "Tỷ lệ phần trăm + Giá cố định"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:489
+msgid "Percentage Commission"
+msgstr "Phần trăm hoa hồng"
+
+#: public/templates/rtwalwm_affiliate_body.php:245
+msgid "Percentage commission (%)"
+msgstr "Phần trăm hoa hồng (%)"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:433
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:86
+msgid "Performance Bonus"
+msgstr "Tiền thưởng hiệu suất"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:209
+msgid "Please Enter Target URL"
+msgstr "Vui lòng nhập URL mục tiêu"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:207
+msgid "Please input some text in message box"
+msgstr "Vui lòng nhập một số văn bản vào hộp tin nhắn"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:210
+msgid "Please Select Image"
+msgstr "Vui lòng chọn hình ảnh"
+
+#: public/templates/rtwalwm_affiliate_body.php:241
+msgid "Product Name"
+msgstr "Tên sản phẩm"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:22
+msgid "Products"
+msgstr "Các sản phẩm"
+
+#: public/templates/rtwalwm_affiliate_body.php:458
+msgid "Profile"
+msgstr "Hồ sơ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:618
+msgid "Public Key"
+msgstr "Khóa công khai"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:590
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:602
+msgid "Publishable Key"
+msgstr "Khóa có thể xuất bản"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:264
+msgid "QR code for referral links"
+msgstr "Mã QR cho các liên kết giới thiệu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:19
+msgid "Rank"
+msgstr "Thứ hạng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:702
+msgid "Rank Commission"
+msgstr "Hoa hồng xếp hạng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:695
+msgid "Rank Name"
+msgstr "Tên xếp hạng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:698
+msgid "Rank Priority"
+msgstr "Ưu tiên xếp hạng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:75
+msgid "Read More"
+msgstr "Đọc thêm"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_footer.php:7
+msgid "RedefiningTheWeb"
+msgstr "Xác định lạiTheWeb"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:31
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:211
+msgid "Reference"
+msgstr "Thẩm quyền giải quyết"
+
+#: public/templates/rtwalwm_affiliate_body.php:99
+#: public/templates/rtwalwm_affiliate_body.php:121
+msgid "Referral Bonus"
+msgstr "Tiền thưởng giới thiệu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:407
+msgid "Referral Code"
+msgstr "Mã giới thiệu"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:150
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:150
+#: public/templates/rtwalwm_affiliate_body.php:69
+msgid "Referrals"
+msgstr "Giới thiệu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_addons.php:16
+msgid "Register Shrotcode"
+msgstr "Đăng ký Shrotcode"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_addons.php:9
+msgid "Register/Login Templates"
+msgstr "Mẫu đăng ký/đăng nhập"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:165
+msgid "Reject"
+msgstr "Từ chối"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:9
+msgid "Reject all marked Referrals"
+msgstr "Từ chối tất cả các giới thiệu được đánh dấu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:186
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:763
+msgid "Rejected"
+msgstr "Vật bị loại bỏ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:646
+msgid "Remove "
+msgstr "Di dời"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:253
+msgid "Replace rtwwwap_aff slug from Affiliate link"
+msgstr "Thay thế sên rtwwwap_aff từ liên kết Liên kết"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "Request for commission withdraw"
+msgstr "Yêu cầu rút tiền hoa hồng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:109
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:808
+msgid "Save"
+msgstr "Cứu"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:258
+msgid "Save changes"
+msgstr "Lưu thay đổi"
+
+#: public/templates/rtwalwm_affiliate_body.php:426
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: public/templates/rtwalwm_affiliate_body.php:399
+msgid "Search Product"
+msgstr "Tìm kiếm sản phẩm"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:593
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:605
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:621
+msgid "Secret Key"
+msgstr "Khóa bí mật"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:45
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:79
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:101
+msgid "Select a Page"
+msgstr "Chọn một trang"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:935
+msgid "Select Affiliate"
+msgstr "Chọn liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:30
+msgid "Select Affiliate Page"
+msgstr "Chọn trang liên kết"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:919
+msgid "Select an affiliate"
+msgstr "Chọn một chi nhánh"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:118
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:257
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:326
+msgid "Select categories"
+msgstr "Chọn danh mục"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:191
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:118
+msgid "Select Color"
+msgstr "Chọn màu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:163
+msgid "Select Currency"
+msgstr "Chọn tiền tệ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:84
+msgid "Select Image Dimention"
+msgstr "Chọn kích thước hình ảnh"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:82
+msgid "Select Image Width x Height "
+msgstr "Chọn Chiều rộng hình ảnh x Chiều cao"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:84
+msgid "Select page if your are using Login shortcode seprately"
+msgstr "Chọn trang nếu bạn đang sử dụng mã ngắn Đăng nhập riêng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:106
+msgid "Select page if your are using Register shortcode seprately"
+msgstr "Chọn trang nếu bạn đang sử dụng Đăng ký shortcode riêng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:128
+msgid "Select Template for Affiliate Page "
+msgstr "Chọn mẫu cho trang liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:196
+msgid "Select this if you want to hide Login form on Affiliate Page"
+msgstr ""
+"Chọn tùy chọn này nếu bạn muốn ẩn biểu mẫu Đăng nhập trên Trang liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:208
+msgid "Select this if you want to hide Registration form on Affiliate Page"
+msgstr "Chọn tùy chọn này nếu bạn muốn ẩn biểu mẫu Đăng ký trên Trang liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:101
+msgid "Selected Image Height :: "
+msgstr "Chiều cao hình ảnh đã chọn ::"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:97
+msgid "Selected Image Width  :: "
+msgstr "Chiều rộng hình ảnh đã chọn ::"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:231
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:101
+msgid "Share Bonus"
+msgstr "Chia sẻ tiền thưởng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:486
+msgid "Sharing Bonus"
+msgstr "Chia sẻ tiền thưởng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:495
+msgid "Sharing Bonus Limit"
+msgstr "Giới hạn tiền thưởng chia sẻ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:137
+msgid "Show under My Account"
+msgstr "Hiển thị trong Tài khoản của tôi"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:423
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:79
+msgid "Signup Bonus"
+msgstr "Tiền thưởng đăng ký"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:403
+msgid "Signup Bonus Type"
+msgstr "Loại tiền thưởng đăng ký"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:322
+#: public/templates/rtwalwm_affiliate.php:63
+msgid "Signup Bonus when someone signup from your shared link"
+msgstr "Phần thưởng đăng ký khi ai đó đăng ký từ liên kết được chia sẻ của bạn"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "Signup Email"
+msgstr "Email đăng ký"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:741
+msgid "Silver"
+msgstr "Bạc"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:35
+msgid "Skype"
+msgstr "Skype"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:91
+msgid "Skyscraper – 120 x 600- PRO"
+msgstr "Nhà chọc trời – 120 x 600- PRO"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:250
+msgid "Slug in Affiliate Link"
+msgstr "Slug trong liên kết liên kết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:86
+msgid "Small Square – 200 x 200- PRO"
+msgstr "Hình vuông nhỏ – 200 x 200- PRO"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:692
+msgid "SN"
+msgstr "SN"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_addons.php:50
+#: admin/partials/rtwalwm_tabs/rtwalwm_addons.php:56
+msgid "Social Media Share"
+msgstr "Chia sẻ trên mạng xã hội"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:473
+msgid "Social Media Share Buttons"
+msgstr "Nút chia sẻ trên mạng xã hội"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:727
+msgid "Some referrals are not approved. Try again"
+msgstr "Một số giới thiệu không được chấp thuận. Thử lại"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:767
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:772
+msgid "Some referrals are not rejected. Try again"
+msgstr "Một số giới thiệu không bị từ chối. Thử lại"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:578
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:267
+msgid "Something went wrong"
+msgstr "Đã xảy ra lỗi"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:794
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:819
+msgid "Something went wrong. Try again"
+msgstr "Đã xảy ra lỗi. Thử lại"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:18
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:35
+msgid "Sort"
+msgstr "Loại"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:283
+msgid "Special offer for affiliates"
+msgstr "Ưu đãi đặc biệt cho các chi nhánh"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:79
+msgid "Special offers for affiliate"
+msgstr "Ưu đãi đặc biệt cho chi nhánh"
+
+#: public/templates/rtwalwm_affiliate_body.php:280
+msgid "Specific Product commission not set. Check Category Commissions"
+msgstr ""
+"Hoa hồng sản phẩm cụ thể chưa được thiết lập. Kiểm tra hoa hồng danh mục"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:85
+msgid "Square – 250 x 250"
+msgstr "Hình vuông – 250 x 250"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:30
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:160
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:43
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:221
+#: public/templates/rtwalwm_affiliate_body.php:90
+msgid "Status"
+msgstr "Trạng thái"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:121
+msgid "Stripe"
+msgstr "Sọc"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:586
+msgid "Stripe Live"
+msgstr "sọc sống"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:598
+msgid "Stripe Sandbox"
+msgstr "Hộp cát sọc"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:19
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:46
+msgid "Subject"
+msgstr "Chủ thể"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:861
+msgid "Successfully Uploaded"
+msgstr "Đã tải lên thành công"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:26
+msgid "Support Desk"
+msgstr "Bàn hỗ trợ"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:19
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:56
+msgid "Target Link"
+msgstr "Liên kết mục tiêu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:118
+msgid "Template 1"
+msgstr "Mẫu 1"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:121
+msgid "Template 2"
+msgstr "Mẫu 2"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:124
+msgid "Template 3"
+msgstr "Mẫu 3"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "Thank you for registering, You are now member of our team."
+msgstr "Cảm ơn bạn đã đăng ký, Bạn hiện là thành viên của nhóm chúng tôi."
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:55
+msgid ""
+"The difference in these two option is when you choose \"MLM commission Based "
+"on product price \" then MLM commission generate on the basis of product "
+"price -> let suppose you have set MLM commission on level 1 is 10% and "
+"product price is 100% then parent will receive 10$ as MLM commission. And if "
+"you choose \"MLM commission Based on the amount earned by the affiliate as "
+"commission\" then commission generates on the amount generates for the "
+"affiliate as direct commission let suppose Direct commission was set 20%, "
+"MLM commission on level 1 is 10% and product price is 100$ then affiliate "
+"receive 20$ as commission and their parent will receive 10% of 20$(earned by "
+"affiliate as commission) on 1st level which is 2$"
+msgstr ""
+"Sự khác biệt ở hai lựa chọn này là khi bạn chọn \"Hoa hồng MLM dựa trên giá "
+"sản phẩm\" thì hoa hồng MLM dựa trên giá sản phẩm -> giả sử bạn đã đặt hoa "
+"hồng MLM ở cấp 1 là 10% và giá sản phẩm là 100% thì phụ huynh sẽ nhận được "
+"10$ hoa hồng MLM. Và nếu bạn chọn \"Hoa hồng MLM Dựa trên số tiền mà chi "
+"nhánh kiếm được dưới dạng hoa hồng\" thì hoa hồng sẽ tạo ra trên số tiền tạo "
+"ra cho chi nhánh dưới dạng hoa hồng trực tiếp, giả sử Hoa hồng trực tiếp "
+"được đặt là 20%, hoa hồng MLM ở cấp 1 là 10% và sản phẩm giá là 100$ thì đơn "
+"vị liên kết nhận được 20$ dưới dạng hoa hồng và cha mẹ của họ sẽ nhận được "
+"10% trong số 20$ (do đơn vị liên kết kiếm được dưới dạng hoa hồng) ở cấp độ "
+"1 là 2$"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:995
+msgid "There is no data available in this table"
+msgstr "Không có dữ liệu có sẵn trong bảng này"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:339
+msgid ""
+"These benefits will be shown to the users, so that they will become an "
+"Affiliate"
+msgstr ""
+"Những lợi ích này sẽ được hiển thị cho người dùng để họ trở thành Chi nhánh"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:184
+msgid ""
+"This decimal places will used for calculating commission and showing numbers"
+msgstr "Vị trí thập phân này sẽ được sử dụng để tính hoa hồng và hiển thị số"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:401
+msgid "This user is an affiliate now"
+msgstr "Người dùng này hiện là một chi nhánh"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:404
+msgid "This user is not an affiliate now"
+msgstr "Người dùng này hiện không phải là đơn vị liên kết"
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:423
+msgid "This will make this user also as an Affiliate"
+msgstr "Điều này sẽ làm cho người dùng này cũng trở thành một Chi nhánh"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:501
+msgid "Time Limit"
+msgstr "Giới hạn thời gian"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:640
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:298
+msgid "Title for button \"Become an Affiliate\""
+msgstr "Tiêu đề cho nút \"Trở thành cộng tác viên\""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:310
+msgid "Title for Section \"Benefits for being an Affiliate\""
+msgstr "Tiêu đề cho Phần \"Lợi ích khi trở thành Cộng tác viên\""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:22
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:39
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:51
+msgid "To Reach"
+msgstr "Để tiếp cận"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:30
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:19
+msgid "To set commission for users goto"
+msgstr "Để đặt hoa hồng cho người dùng goto"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:133
+msgid "Top 5 affiliates"
+msgstr "5 chi nhánh hàng đầu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:32
+msgid "Total Affiliates"
+msgstr "Tổng số chi nhánh"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:150
+msgid "Total Amount"
+msgstr "Tổng số tiền"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:57
+#: public/templates/rtwalwm_affiliate_body.php:43
+msgid "Total Commission"
+msgstr "Tổng hoa hồng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:62
+msgid "Total Commission generated from Referrals"
+msgstr "Tổng hoa hồng được tạo từ các lượt giới thiệu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:74
+msgid "Total Commission that needs to be paid"
+msgstr "Tổng số tiền hoa hồng cần phải trả"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:86
+msgid "Total Commission that needs to be reviewed"
+msgstr "Tổng hoa hồng cần được xem xét"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:37
+msgid "Total no. of affiliates registered"
+msgstr "Tổng số không. của các chi nhánh đã đăng ký"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:50
+msgid "Total no. of Referrals done"
+msgstr "Tổng số không. số lượt giới thiệu đã thực hiện"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:45
+#: public/templates/rtwalwm_affiliate_body.php:40
+msgid "Total Referrals"
+msgstr "Tổng số lượt giới thiệu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:74
+msgid "Total sale amount"
+msgstr "Tổng số tiền bán"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:439
+msgid "Total Sale amount to unlock achievement"
+msgstr "Tổng số tiền bán để mở khóa thành tích"
+
+#: public/templates/rtwalwm_affiliate_body.php:373
+msgid "Tweet"
+msgstr "Tweet"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:22
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:94
+#: public/templates/rtwalwm_affiliate_body.php:76
+msgid "Type"
+msgstr "Kiểu"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:50
+msgid "Unilevel"
+msgstr "đơn cấp"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:53
+msgid "Unlimited (Available in PRO)"
+msgstr "Không giới hạn (Có sẵn trong PRO)"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:390
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:49
+msgid "Unlimited / Lifetime Commission"
+msgstr "Hoa hồng không giới hạn / trọn đời"
+
+#: public/templates/rtwalwm_affiliate_body.php:471
+msgid "Update Details"
+msgstr "Cập nhật chi tiết"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:9
+msgid "Update Order"
+msgstr "Cập nhật đơn hàng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:67
+msgid "Upload Custom Banner"
+msgstr "Tải lên biểu ngữ tùy chỉnh"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:179
+msgid "Upto Decimal Places"
+msgstr "Tối đa số thập phân"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:62
+msgid "Use the following shortcode on the selected page"
+msgstr "Sử dụng mã ngắn sau trên trang đã chọn"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:224
+msgid "User can change status of members in his chain?"
+msgstr "Người dùng có thể thay đổi trạng thái thành viên trong chuỗi của mình?"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:25
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:155
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:29
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:209
+msgid "User ID"
+msgstr "ID người dùng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:47
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:154
+#: public/templates/rtwalwm_affiliate_body.php:459
+#: public/templates/rtwalwm_affiliate_body.php:460
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: public/templates/rtwalwm_aff_login_page.php:61
+msgid "Username or Email Address"
+msgstr "Tên người dùng hoặc địa chỉ email"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:30
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:19
+msgid "Users"
+msgstr "Người dùng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:32
+msgid "USERS option is Available in PRO version"
+msgstr "Tùy chọn NGƯỜI DÙNG có sẵn trong phiên bản PRO"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:60
+msgid "Value"
+msgstr "Giá trị"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:17
+msgid "Video"
+msgstr "Băng hình"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:643
+msgid "View / Edit"
+msgstr "Xem/Chỉnh sửa"
+
+#: public/templates/rtwalwm_affiliate_body.php:46
+msgid "Wallet"
+msgstr "Cái ví"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:519
+msgid "Weekly Limit"
+msgstr "Giới hạn hàng tuần"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "Welcome to our MLM system"
+msgstr "Chào mừng đến với hệ thống MLM của chúng tôi"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:53
+msgid ""
+"What is difference between MLM Commission based on affiliate commission & "
+"MLM Commission based on Product Price?"
+msgstr ""
+"Sự khác biệt giữa Hoa hồng MLM dựa trên hoa hồng liên kết và Hoa hồng MLM "
+"dựa trên Giá sản phẩm là gì?"
+
+#: public/templates/rtwalwm_affiliate_body.php:386
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:434
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:89
+msgid ""
+"When not selected then first referrer will get commission every time a "
+"purchase is done by referee. No matter who's referral link is being opened."
+msgstr ""
+"Khi không được chọn thì người giới thiệu đầu tiên sẽ nhận được hoa hồng mỗi "
+"khi người giới thiệu thực hiện mua hàng. Bất kể liên kết giới thiệu của ai "
+"đang được mở."
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:409
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:66
+msgid ""
+"When Unlimited commission is set then commission will be generated every "
+"time a referee made a purchase. No matter if a cookie is set or not."
+msgstr ""
+"Khi hoa hồng không giới hạn được đặt thì hoa hồng sẽ được tạo ra mỗi khi "
+"người được giới thiệu mua hàng. Bất kể cookie có được đặt hay không."
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:92
+msgid "Wide Skyscraper – 160 x 600- PRO"
+msgstr "Tòa nhà chọc trời rộng – 160 x 600- PRO"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:376
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:38
+msgid "Withdrawal Fees"
+msgstr "Phí rút tiền"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:52
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:157
+msgid "Wp role"
+msgstr "Vai trò WP"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:287
+msgid "Write custom css for frontend"
+msgstr "Viết css tùy chỉnh cho giao diện người dùng"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:398
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:423
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:448
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:472
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:499
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:525
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:55
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:78
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:144
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:239
+msgid "Yes"
+msgstr "Đúng"
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:264
+msgid "You are now an affiliate"
+msgstr "Bây giờ bạn là một chi nhánh"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "You are now Member of our Team"
+msgstr "Bây giờ bạn là Thành viên của nhóm chúng tôi"
+
+#: rtwalwm-class-wp-wc-affiliate-program-activator.php:55
+msgid "You got a new MLM commission of amount"
+msgstr "Bạn đã nhận được số tiền hoa hồng MLM mới"
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:193
+msgid "You need to add commission from product page"
+msgstr "Bạn cần thêm hoa hồng từ trang sản phẩm"

@@ -1,0 +1,1468 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: FS WooCommerce Wallet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-03 15:47+0100\n"
+"PO-Revision-Date: 2024-08-29 01:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1"
+
+#: includes/classes/FS_WC_Wallet.php:2732
+#: includes/classes/FS_WC_Wallet.php:2760
+msgid " Cashback"
+msgstr "Hoàn tiền"
+
+#: includes/classes/FS_WC_Wallet.php:1763
+#: includes/classes/FS_WC_Wallet.php:1813
+msgid " would you like to use them?"
+msgstr "bạn có muốn sử dụng chúng không?"
+
+#: includes/classes/Gateway.php:128
+msgid ""
+"<strong>Payment error:</strong> Insufficient funds. Please purchase more "
+"credits or use a different payment method."
+msgstr ""
+"<strong>Lỗi thanh toán:</strong> Không đủ tiền. Vui lòng mua thêm tín dụng "
+"hoặc sử dụng phương thức thanh toán khác."
+
+#: includes/classes/Gateway.php:117
+msgid ""
+"<strong>Payment error:</strong> You can not purchase wallet credit money "
+"with wallet credit. Please choose another payment method."
+msgstr ""
+"<strong>Lỗi thanh toán:</strong> Bạn không thể mua tiền tín dụng ví bằng tín "
+"dụng ví. Vui lòng chọn phương thức thanh toán khác."
+
+#: includes/withdrawal-requests.php:487
+msgid "Account Number"
+msgstr "Số tài khoản"
+
+#: includes/withdrawal-requests.php:624
+#: includes/pages/withdrawal_requests.php:127
+msgid "Account Type"
+msgstr "Loại tài khoản"
+
+#: includes/withdrawal-requests.php:338
+msgid "Account Type *"
+msgstr "Loại tài khoản *"
+
+#: includes/pages/requests.php:51 includes/pages/requests.php:193
+#: includes/pages/withdrawal_requests.php:56
+#: includes/pages/withdrawal_requests.php:218
+msgid "Action"
+msgstr "Hoạt động"
+
+#: includes/pages/wallets.php:92 includes/pages/wallets.php:207
+msgid "Actions"
+msgstr "hành động"
+
+#: includes/classes/FS_WC_Wallet.php:1761
+#: includes/classes/FS_WC_Wallet.php:1811
+#: includes/classes/FS_WC_Wallet.php:2466
+msgid "Add"
+msgstr "Thêm vào"
+
+#: includes/pages/wallets.php:152 includes/pages/wallets.php:218
+msgid "Add Credit"
+msgstr "Thêm tín dụng"
+
+#: includes/pages/add_funds.php:14 includes/pages/add_funds.php:55
+#: includes/pages/edit_wallet.php:156 includes/pages/wallets.php:258
+msgid "Add Funds"
+msgstr "Thêm tiền"
+
+#: includes/classes/FS_WC_Wallet.php:2910
+#: includes/classes/FS_WC_Wallet.php:2911 includes/pages/wallets.php:68
+msgid "Add Funds To a User"
+msgstr "Thêm tiền cho người dùng"
+
+#: includes/classes/FS_WC_Wallet.php:859
+msgid "Add to cart"
+msgstr "Thêm vào giỏ hàng"
+
+#: includes/withdrawal-requests.php:555 includes/withdrawal-requests.php:691
+#: includes/pages/withdrawal_requests.php:55
+#: includes/pages/withdrawal_requests.php:217
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: includes/classes/FS_WC_Wallet.php:1455
+#: includes/classes/FS_WC_Wallet.php:2825
+msgid "Admin added funds"
+msgstr "Quản trị viên đã thêm tiền"
+
+#: includes/classes/FS_WC_Wallet.php:1484
+msgid "Admin withdraw funds"
+msgstr "Quản trị viên rút tiền"
+
+#: includes/pages/settings.php:20
+msgid "Advanced"
+msgstr "Trình độ cao"
+
+#: includes/settings_pages/general.php:250
+msgid ""
+"Allow the customer to enter a custom deposit amount instead of selecting one "
+"of the pre-made values:"
+msgstr ""
+"Cho phép khách hàng nhập số tiền gửi tùy chỉnh thay vì chọn một trong các "
+"giá trị được tạo sẵn:"
+
+#: includes/pages/withdrawal_requests.php:170
+msgid "Already Approved"
+msgstr "Đã được phê duyệt"
+
+#: includes/classes/FS_WC_Wallet.php:686 includes/classes/FS_WC_Wallet.php:721
+#: includes/pages/requests.php:146
+msgid "Already Refunded"
+msgstr "Đã được hoàn tiền"
+
+#: includes/transactions_table_html.php:64
+#: includes/transactions_table_html.php:166 includes/withdrawal-requests.php:78
+#: includes/withdrawal-requests.php:553 includes/withdrawal-requests.php:689
+#: includes/classes/FS_WC_Wallet.php:2323 includes/pages/add_funds.php:34
+#: includes/pages/requests.php:47 includes/pages/requests.php:189
+#: includes/pages/wallets.php:231 includes/pages/wallets.php:286
+#: includes/pages/withdrawal_requests.php:52
+#: includes/pages/withdrawal_requests.php:214
+msgid "Amount"
+msgstr "Số lượng"
+
+#: includes/pages/withdrawal_requests.php:159
+msgid "Approve"
+msgstr "Chấp thuận"
+
+#: includes/functions.php:13
+msgid "Apr"
+msgstr "tháng tư"
+
+#: includes/functions.php:17
+msgid "Aug"
+msgstr "tháng 8"
+
+#: includes/classes/Gateway.php:45
+msgid "Available Balance:"
+msgstr "Số dư khả dụng:"
+
+#: includes/pages/edit_wallet.php:82 includes/pages/wallets.php:89
+#: includes/pages/wallets.php:204
+msgid "Balance"
+msgstr "Sự cân bằng"
+
+#: includes/withdrawal-requests.php:592
+#: includes/pages/withdrawal_requests.php:98
+msgid "Bank Account Holder's Name"
+msgstr "Tên chủ tài khoản ngân hàng"
+
+#: includes/withdrawal-requests.php:217
+msgid "Bank Account Holder's Name *"
+msgstr "Tên chủ tài khoản ngân hàng *"
+
+#: includes/withdrawal-requests.php:621 includes/withdrawal-requests.php:636
+#: includes/pages/withdrawal_requests.php:116
+#: includes/pages/withdrawal_requests.php:125
+msgid "Bank Account Number"
+msgstr "Số tài khoản ngân hàng"
+
+#: includes/withdrawal-requests.php:322 includes/withdrawal-requests.php:530
+msgid "Bank Account Number *"
+msgstr "Số tài khoản ngân hàng *"
+
+#: includes/withdrawal-requests.php:594
+#: includes/pages/withdrawal_requests.php:99
+msgid "Bank Account Number/IBAN"
+msgstr "Số tài khoản ngân hàng/IBAN"
+
+#: includes/withdrawal-requests.php:225
+msgid "Bank Account Number/IBAN *"
+msgstr "Số tài khoản ngân hàng/IBAN *"
+
+#: includes/withdrawal-requests.php:619 includes/withdrawal-requests.php:634
+#: includes/pages/withdrawal_requests.php:115
+#: includes/pages/withdrawal_requests.php:124
+msgid "Bank Agency Number"
+msgstr "Số đại lý ngân hàng"
+
+#: includes/withdrawal-requests.php:315
+msgid "Bank Agency Number *"
+msgstr "Mã số đại lý ngân hàng *"
+
+#: includes/withdrawal-requests.php:599
+#: includes/pages/withdrawal_requests.php:102
+msgid "Bank Branch City"
+msgstr "Chi nhánh ngân hàng TP."
+
+#: includes/withdrawal-requests.php:249
+msgid "Bank Branch City *"
+msgstr "Chi nhánh ngân hàng Thành phố *"
+
+#: includes/withdrawal-requests.php:601
+#: includes/pages/withdrawal_requests.php:103
+msgid "Bank Branch Country"
+msgstr "Chi nhánh ngân hàng Quốc gia"
+
+#: includes/withdrawal-requests.php:257
+msgid "Bank Branch Country *"
+msgstr "Quốc gia chi nhánh ngân hàng *"
+
+#: includes/withdrawal-requests.php:480 includes/withdrawal-requests.php:618
+#: includes/withdrawal-requests.php:633
+#: includes/pages/withdrawal_requests.php:114
+#: includes/pages/withdrawal_requests.php:123
+msgid "Bank Name"
+msgstr "Tên ngân hàng"
+
+#: includes/withdrawal-requests.php:308 includes/withdrawal-requests.php:516
+msgid "Bank Name *"
+msgstr "Tên ngân hàng *"
+
+#: includes/withdrawal-requests.php:597
+#: includes/pages/withdrawal_requests.php:101
+msgid "Bank Name in Full"
+msgstr "Tên ngân hàng đầy đủ"
+
+#: includes/withdrawal-requests.php:241
+msgid "Bank Name in Full *"
+msgstr "Tên ngân hàng đầy đủ *"
+
+#: includes/withdrawal-requests.php:113
+msgid "Bank Transfer"
+msgstr "Chuyển khoản ngân hàng"
+
+#: includes/settings_pages/general.php:352
+msgid "Bank Transfer (Brazil)"
+msgstr "Chuyển khoản ngân hàng (Brazil)"
+
+#: includes/settings_pages/general.php:377
+#| msgid "Bank Transfer (BACS)"
+msgid "Bank Transfer (Italy)"
+msgstr "Chuyển khoản ngân hàng (Ý)"
+
+#: includes/withdrawal-requests.php:121 includes/settings_pages/general.php:364
+msgid "Bank Transfer (Turkey)"
+msgstr "Chuyển khoản ngân hàng (Thổ Nhĩ Kỳ)"
+
+#: includes/withdrawal-requests.php:125 includes/settings_pages/general.php:389
+msgid "Bank Transfer (Viet Nam)"
+msgstr "Chuyển Khoản ngân hàng Việt Nam"
+
+#: includes/withdrawal-requests.php:448
+msgid "BIC/SWIFT *"
+msgstr "BIC/SWIFT *"
+
+#: includes/withdrawal-requests.php:582
+#: includes/pages/withdrawal_requests.php:91
+msgid "Billing Address Line 1"
+msgstr "Dòng địa chỉ thanh toán 1"
+
+#: includes/withdrawal-requests.php:167
+msgid "Billing Address Line 1 *"
+msgstr "Dòng địa chỉ thanh toán 1 *"
+
+#: includes/withdrawal-requests.php:174 includes/withdrawal-requests.php:584
+#: includes/pages/withdrawal_requests.php:92
+msgid "Billing Address Line 2"
+msgstr "Dòng địa chỉ thanh toán 2"
+
+#: includes/withdrawal-requests.php:181 includes/withdrawal-requests.php:586
+#: includes/pages/withdrawal_requests.php:93
+msgid "Billing Address Line 3"
+msgstr "Dòng địa chỉ thanh toán 3"
+
+#: includes/withdrawal-requests.php:104 includes/settings_pages/general.php:340
+msgid "Bitcoin"
+msgstr "bitcoin"
+
+#: includes/withdrawal-requests.php:148
+msgid "Bitcoin Address"
+msgstr "Địa chỉ Bitcoin"
+
+#: includes/withdrawal-requests.php:117
+msgid "Bonifico Bancario "
+msgstr "Chuyển khoản ngân hàng"
+
+#: includes/classes/FS_WC_Wallet.php:855
+msgid "Buy Now"
+msgstr "Mua ngay"
+
+#: includes/frontend-html.php:10 includes/pages/wallets.php:259
+#: includes/pages/wallets.php:314 includes/pages/wallets.php:361
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: includes/classes/FS_WC_Wallet.php:681 includes/classes/FS_WC_Wallet.php:716
+msgid "Cancel Refund Request"
+msgstr "Hủy yêu cầu hoàn tiền"
+
+#: includes/withdrawal-requests.php:340
+msgid "Checking Account"
+msgstr "Kiểm tra tài khoản"
+
+#: includes/withdrawal-requests.php:340
+msgid "Checking Account *"
+msgstr "Kiểm tra tài khoản *"
+
+#: includes/classes/Gateway.php:153
+msgid "Checkout using wallet funds"
+msgstr "Thanh toán bằng tiền trong ví"
+
+#: includes/withdrawal-requests.php:412
+msgid "Città *"
+msgstr "Thành phố *"
+
+#: includes/withdrawal-requests.php:588
+#: includes/pages/withdrawal_requests.php:94
+msgid "City"
+msgstr "Thành phố"
+
+#: includes/withdrawal-requests.php:188
+msgid "City *"
+msgstr "Thành phố *"
+
+#: includes/withdrawal-requests.php:370
+msgid "Codice fiscale *"
+msgstr "Mã số thuế *"
+
+#: includes/withdrawal-requests.php:404
+msgid "Codice postale *"
+msgstr "Mã bưu chính *"
+
+#: includes/withdrawal-requests.php:363
+msgid "Cognome *"
+msgstr "Họ *"
+
+#: includes/settings_pages/general.php:88
+msgid "Completed"
+msgstr "Hoàn thành"
+
+#: includes/withdrawal-requests.php:591
+#: includes/pages/withdrawal_requests.php:97
+msgid "Country"
+msgstr "Quốc gia"
+
+#: includes/withdrawal-requests.php:210
+msgid "Country *"
+msgstr "Quốc gia *"
+
+#: includes/withdrawal-requests.php:623
+#: includes/pages/withdrawal_requests.php:126
+msgid "CPF"
+msgstr "CPF"
+
+#: includes/withdrawal-requests.php:330
+msgid "CPF *"
+msgstr "CPF *"
+
+#: includes/transactions_table_html.php:69
+msgid "Created By"
+msgstr "Được tạo bởi"
+
+#: includes/transactions_table_html.php:251
+#: includes/transactions_table_html.php:345
+msgid "Credits"
+msgstr "Tín dụng"
+
+#: includes/import_export_pages/import.php:20
+msgid "CSV File"
+msgstr "Tệp CSV"
+
+#: includes/import_export_pages/import.php:18
+msgid "CSV file generated by the plugin in the export page"
+msgstr "Tệp CSV được plugin tạo trong trang xuất"
+
+#: includes/transactions_table_html.php:46
+#: includes/transactions_table_html.php:233 includes/pages/requests.php:35
+#: includes/pages/wallets.php:79 includes/pages/withdrawal_requests.php:41
+msgid "Current Page"
+msgstr "Trang hiện tại"
+
+#: includes/settings_pages/general.php:246
+msgid "Custom deposit amounts:"
+msgstr "Số tiền gửi tùy chỉnh:"
+
+#: includes/settings_pages/encryption.php:42
+msgid "Data Encryption Key"
+msgstr "Khóa mã hóa dữ liệu"
+
+#: includes/settings_pages/encryption.php:56
+msgid "Data Encryption VI"
+msgstr "Mã hóa dữ liệu VI"
+
+#: includes/transactions_table_html.php:73
+#: includes/transactions_table_html.php:171
+#: includes/transactions_table_html.php:253
+#: includes/transactions_table_html.php:347
+msgid "Date"
+msgstr "Ngày"
+
+#: includes/transactions_table_html.php:252
+#: includes/transactions_table_html.php:346
+msgid "Debits"
+msgstr "Ghi nợ"
+
+#: includes/functions.php:21
+msgid "Dec"
+msgstr "Tháng mười hai"
+
+#: includes/transactions_table_html.php:157 includes/pages/wallets.php:178
+#: includes/pages/withdrawal_requests.php:187
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+#: includes/classes/FS_WC_Wallet.php:2883
+msgid "Delete This item?"
+msgstr "Xóa mục này?"
+
+#: includes/transactions_table_html.php:66
+#: includes/transactions_table_html.php:167 includes/classes/Gateway.php:84
+msgid "Description"
+msgstr "Sự miêu tả"
+
+#: includes/settings_pages/general.php:116
+msgid ""
+"Disable all the other payment methods if there is enough funds in the wallet:"
+msgstr ""
+"Vô hiệu hóa tất cả các phương thức thanh toán khác nếu có đủ tiền trong ví:"
+
+#: includes/settings_pages/encryption.php:33
+msgid "Disable Encryption"
+msgstr "Tắt mã hóa"
+
+#: includes/pages/wallets.php:175
+msgid "Edit"
+msgstr "Biên tập"
+
+#: includes/pages/edit_wallet.php:49
+msgid "Edit Wallet"
+msgstr "Chỉnh sửa ví"
+
+#: includes/settings_pages/general.php:189
+msgid "Enable refund requests"
+msgstr "Bật yêu cầu hoàn tiền"
+
+#: includes/settings_pages/general.php:165
+msgid "Enable user to user transfers"
+msgstr "Cho phép chuyển người dùng sang người dùng"
+
+#: includes/settings_pages/general.php:305
+msgid "Enable withdrawal requests"
+msgstr "Kích hoạt yêu cầu rút tiền"
+
+#: includes/classes/Gateway.php:69 includes/classes/Gateway.php:70
+msgid "Enable WooCommerce Wallet"
+msgstr "Kích hoạt ví WooC Commerce"
+
+#: includes/pages/settings.php:19
+msgid "Encryption"
+msgstr "Mã hóa"
+
+#: includes/settings_pages/encryption.php:13
+msgid "Encryption Settings"
+msgstr "Cài đặt mã hóa"
+
+#: includes/classes/FS_WC_Wallet.php:2460
+msgid "Enter amount"
+msgstr "Nhập số tiền"
+
+#: includes/classes/FS_WC_Wallet.php:1890
+#: includes/classes/FS_WC_Wallet.php:1906
+msgid ""
+"Enter the wallet cashback amount given after purchasing this product<br><br>"
+"Enter an exact value, or a value ending with % to give a percentage or leave "
+"empty for no cashback"
+msgstr ""
+"Nhập số tiền hoàn lại vào ví sau khi mua sản phẩm này<br><br>Nhập giá trị "
+"chính xác hoặc giá trị kết thúc bằng % để đưa ra phần trăm hoặc để trống nếu "
+"không được hoàn lại tiền"
+
+#: includes/classes/FS_WC_Wallet.php:1879
+msgid "Enter the wallet credit given after purchasing this product"
+msgstr "Nhập tín dụng ví được cấp sau khi mua sản phẩm này"
+
+#: includes/import_export_pages/export.php:16
+msgid ""
+"Export the wallet users and balances, the file can be modified and imported "
+"back again, the new values will override the old ones."
+msgstr ""
+"Xuất người dùng và số dư ví, tệp có thể được sửa đổi và nhập lại, các giá "
+"trị mới sẽ ghi đè lên giá trị cũ."
+
+#: includes/import_export_pages/transactions-export.php:14
+#: includes/pages/import-export.php:19
+msgid "Export Transactions"
+msgstr "Giao dịch xuất khẩu"
+
+#: includes/import_export_pages/export.php:14
+#: includes/pages/import-export.php:18
+msgid "Export Wallets"
+msgstr "Xuất ví"
+
+#: includes/import_export_pages/withdrawal-export.php:14
+#: includes/pages/import-export.php:20
+msgid "Export Withdrawal Requests"
+msgstr "Xuất yêu cầu rút tiền"
+
+#: includes/functions.php:11
+msgid "Feb"
+msgstr "Tháng Hai"
+
+#: includes/pages/withdrawal_requests.php:53
+#: includes/pages/withdrawal_requests.php:215
+msgid "Fee"
+msgstr "Phí"
+
+#: includes/settings_pages/fees.php:42 includes/settings_pages/fees.php:85
+#: includes/settings_pages/fees.php:125
+msgid "Fee Amount"
+msgstr "Số tiền phí"
+
+#: includes/settings_pages/fees.php:24 includes/settings_pages/fees.php:66
+#: includes/settings_pages/fees.php:106
+msgid "Fee Type"
+msgstr "Loại phí"
+
+#: includes/pages/settings.php:18
+msgid "Fees"
+msgstr "Phí"
+
+#: includes/pages/transactions.php:29
+msgid "Filter by user"
+msgstr "Lọc theo người dùng"
+
+#: includes/withdrawal-requests.php:466
+msgid "First Name"
+msgstr "Tên"
+
+#: includes/settings_pages/fees.php:34 includes/settings_pages/fees.php:77
+#: includes/settings_pages/fees.php:117
+msgid "Fixed Amount"
+msgstr "Số tiền cố định"
+
+#: includes/settings_pages/general.php:128
+msgid ""
+"Force users to checkout using the wallet if there is enough funds in it."
+msgstr "Buộc người dùng thanh toán bằng ví nếu có đủ tiền trong đó."
+
+#: includes/withdrawal-requests.php:581
+#: includes/pages/withdrawal_requests.php:90
+msgid "Full Name"
+msgstr "Tên đầy đủ"
+
+#: includes/withdrawal-requests.php:160
+msgid "Full Name *"
+msgstr "Tên đầy đủ *"
+
+#: includes/classes/FS_WC_Wallet.php:1476
+#: includes/classes/FS_WC_Wallet.php:1477
+msgid "Funds have been withdrawn from your account"
+msgstr "Tiền đã được rút khỏi tài khoản của bạn"
+
+#: includes/classes/FS_WC_Wallet.php:511
+msgid "Funds received from "
+msgstr "Vốn nhận được từ"
+
+#: includes/pages/edit_wallet.php:150
+msgid "Funds reserved for pending withdrawal requests."
+msgstr "Tiền dành riêng cho các yêu cầu rút tiền đang chờ xử lý."
+
+#: includes/classes/FS_WC_Wallet.php:510
+msgid "Funds transfer to "
+msgstr "Chuyển vốn đến"
+
+#: includes/pages/settings.php:17
+msgid "General"
+msgstr "Tổng quan"
+
+#: includes/classes/FS_WC_Wallet.php:1474
+msgid "Have been withdrawn from your account balance"
+msgstr "Đã được rút khỏi số dư tài khoản của bạn"
+
+#: includes/classes/FS_WC_Wallet.php:2435
+msgid "How much would you like to deposit?"
+msgstr "Bạn muốn đặt cọc bao nhiêu?"
+
+#: includes/pages/wallets.php:62
+msgid "I have created a database backup, run the updater"
+msgstr "Tôi đã tạo bản sao lưu cơ sở dữ liệu, chạy trình cập nhật"
+
+#: includes/withdrawal-requests.php:441 includes/withdrawal-requests.php:523
+msgid "IBAN *"
+msgstr "IBAN *"
+
+#: includes/transactions_table_html.php:59
+#: includes/transactions_table_html.php:150
+#: includes/transactions_table_html.php:246
+#: includes/transactions_table_html.php:340
+#: includes/withdrawal-requests.php:552 includes/withdrawal-requests.php:688
+#: includes/pages/wallets.php:87 includes/pages/wallets.php:202
+msgid "ID"
+msgstr "NHẬN DẠNG"
+
+#: includes/settings_pages/general.php:106
+msgid ""
+"If account balance is not enough discount the available funds from the "
+"accounts balance and pay the rest using a different payment gateway."
+msgstr ""
+"Nếu số dư tài khoản không đủ, hãy chiết khấu số tiền khả dụng từ số dư tài "
+"khoản và thanh toán phần còn lại bằng cổng thanh toán khác."
+
+#: includes/classes/FS_WC_Wallet.php:2572
+msgid "If you think there is an error please contact us."
+msgstr "Nếu bạn cho rằng có lỗi, vui lòng liên hệ với chúng tôi."
+
+#: includes/import_export_pages/import.php:28
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: includes/import_export_pages/import.php:12
+#: includes/pages/import-export.php:17
+msgid "Import Wallets"
+msgstr "Nhập ví"
+
+#: includes/classes/FS_WC_Wallet.php:2954
+#: includes/classes/FS_WC_Wallet.php:2955 includes/pages/import-export.php:14
+msgid "Import/Export"
+msgstr "Nhập/Xuất"
+
+#: includes/settings_pages/general.php:209
+msgid "Inside the order details page"
+msgstr "Bên trong trang chi tiết đơn hàng"
+
+#: includes/settings_pages/general.php:282
+msgid ""
+"Instead of a drop down with predefined amounts that you set by creating "
+"credit products the plugin will show an input box where the user can enter "
+"the amounts they want."
+msgstr ""
+"Thay vì thả xuống với số tiền được xác định trước mà bạn đặt bằng cách tạo "
+"sản phẩm tín dụng, plugin sẽ hiển thị hộp nhập nơi người dùng có thể nhập số "
+"tiền họ muốn."
+
+#: includes/classes/Gateway.php:92
+msgid "Instructions"
+msgstr "Hướng dẫn"
+
+#: includes/classes/Gateway.php:94
+msgid "Instructions that will be added to the thank you page."
+msgstr "Hướng dẫn sẽ được thêm vào trang cảm ơn."
+
+#: includes/classes/FS_WC_Wallet.php:2282
+msgid "Insufficient funds"
+msgstr "Không đủ tiền"
+
+#: includes/withdrawal-requests.php:265 includes/withdrawal-requests.php:603
+#: includes/pages/withdrawal_requests.php:104
+msgid "Intermediary Bank - Bank Code"
+msgstr "Ngân hàng trung gian - Mã ngân hàng"
+
+#: includes/withdrawal-requests.php:281 includes/withdrawal-requests.php:607
+#: includes/pages/withdrawal_requests.php:106
+msgid "Intermediary Bank - City"
+msgstr "Ngân hàng trung gian - TP."
+
+#: includes/withdrawal-requests.php:289 includes/withdrawal-requests.php:609
+#: includes/pages/withdrawal_requests.php:107
+msgid "Intermediary Bank - Country"
+msgstr "Ngân hàng trung gian - Quốc gia"
+
+#: includes/withdrawal-requests.php:273 includes/withdrawal-requests.php:605
+#: includes/pages/withdrawal_requests.php:105
+msgid "Intermediary Bank - Name"
+msgstr "Ngân hàng trung gian - Tên"
+
+#: includes/withdrawal-requests.php:58
+msgid "Invalid amount."
+msgstr "Số tiền không hợp lệ."
+
+#: includes/classes/FS_WC_Wallet.php:2275
+msgid "Invalid user email."
+msgstr "Email người dùng không hợp lệ."
+
+#: includes/functions.php:10
+msgid "Jan"
+msgstr "Tháng một"
+
+#: includes/functions.php:16
+msgid "Jul"
+msgstr "tháng 7"
+
+#: includes/functions.php:15
+msgid "Jun"
+msgstr "tháng sáu"
+
+#: includes/pages/wallets.php:90 includes/pages/wallets.php:205
+msgid "Last Deposit"
+msgstr "Khoản tiền gửi cuối cùng"
+
+#: includes/pages/edit_wallet.php:100
+msgid "Last Deposit Date"
+msgstr "Ngày gửi tiền cuối cùng"
+
+#: includes/withdrawal-requests.php:473
+msgid "Last Name"
+msgstr "Họ"
+
+#: includes/pages/wallets.php:164
+msgid "Lock"
+msgstr "Khóa"
+
+#: includes/pages/wallets.php:330
+msgid "Lock Credit"
+msgstr "Khóa tín dụng"
+
+#: includes/pages/edit_wallet.php:136
+msgid "Lock Message"
+msgstr "Khóa tin nhắn"
+
+#: includes/pages/wallets.php:343
+msgid "Lock Reason"
+msgstr "Lý do khóa"
+
+#: includes/pages/wallets.php:360
+msgid "Lock/Unlock Funds"
+msgstr "Khóa/Mở khóa tiền"
+
+#: includes/pages/add_funds.php:48 includes/pages/edit_wallet.php:128
+msgid "Locked"
+msgstr "Đã khóa"
+
+#: includes/pages/wallets.php:332
+msgid ""
+"Locking the credit will make the user unable to use his wallet credit to "
+"checkout, the lock reason will be dispalyed instead."
+msgstr ""
+"Việc khóa tín dụng sẽ khiến người dùng không thể sử dụng tín dụng ví của "
+"mình để thanh toán, thay vào đó lý do khóa sẽ được hiển thị."
+
+#: includes/classes/Make_Deposit_Endpoint.php:39
+#: includes/classes/Make_Deposit_Endpoint.php:54
+msgid "Make a Deposit"
+msgstr "Nạp tiền"
+
+#: includes/classes/FS_WC_Wallet.php:2447
+msgid "Make Deposit"
+msgstr "Chuyển tiền"
+
+#: includes/functions.php:12
+msgid "Mar"
+msgstr "tháng 3"
+
+#: includes/settings_pages/general.php:413
+msgid "Maximum Amount:"
+msgstr "Số tiền tối đa:"
+
+#: includes/settings_pages/general.php:271
+msgid "Maximum deposit:"
+msgstr "Tiền gửi tối đa:"
+
+#: includes/functions.php:14
+msgid "May"
+msgstr "Có thể"
+
+#: includes/withdrawal-requests.php:554 includes/withdrawal-requests.php:690
+#: includes/pages/withdrawal_requests.php:54
+#: includes/pages/withdrawal_requests.php:216
+msgid "Method"
+msgstr "Phương pháp"
+
+#: includes/settings_pages/general.php:402
+msgid "Minimum Amount:"
+msgstr "Số tiền tối thiểu:"
+
+#: includes/settings_pages/general.php:261
+msgid "Minimum deposit:"
+msgstr "Tiền gửi tối thiểu:"
+
+#: includes/withdrawal-requests.php:356
+msgid "Nome *"
+msgstr "Tên *"
+
+#: includes/withdrawal-requests.php:433
+msgid "Nome di banca *"
+msgstr "Tên ngân hàng *"
+
+#: includes/functions.php:33
+msgid "None"
+msgstr "Không có"
+
+#: includes/pages/wallets.php:250 includes/pages/wallets.php:305
+msgid "Notification Message"
+msgstr "Tin nhắn thông báo"
+
+#: includes/pages/wallets.php:241 includes/pages/wallets.php:296
+#: includes/pages/wallets.php:352
+msgid "Notify the user"
+msgstr "Thông báo cho người dùng"
+
+#: includes/functions.php:20
+msgid "Nov"
+msgstr "tháng 11"
+
+#: includes/settings_pages/general.php:22
+msgid "Number of Rows Per Page for Tables"
+msgstr "Số hàng trên mỗi trang cho bảng"
+
+#: includes/withdrawal-requests.php:386
+msgid "Numero di telefono *"
+msgstr "Số điện thoại *"
+
+#: includes/functions.php:19
+msgid "Oct"
+msgstr "Tháng 10"
+
+#: includes/settings_pages/encryption.php:69
+msgid ""
+"Open SSL is not installed on this server license keys will be stored without "
+"encryption "
+msgstr ""
+"SSL mở không được cài đặt trên máy chủ này, khóa cấp phép sẽ được lưu trữ mà "
+"không cần mã hóa"
+
+#: includes/classes/FS_WC_Wallet.php:2000
+#: includes/classes/FS_WC_Wallet.php:2021
+msgid "Order cancelled"
+msgstr "Đơn hàng bị hủy"
+
+#: includes/pages/requests.php:50 includes/pages/requests.php:192
+msgid "Order Date"
+msgstr "Ngày đặt hàng"
+
+#: includes/transactions_table_html.php:60
+#: includes/transactions_table_html.php:162
+#: includes/transactions_table_html.php:247
+#: includes/transactions_table_html.php:341 includes/pages/requests.php:45
+#: includes/pages/requests.php:187
+msgid "Order ID"
+msgstr "ID đơn hàng"
+
+#: includes/pages/requests.php:87 includes/pages/requests.php:88
+msgid "Order Not Found. ID"
+msgstr "Đơn đặt hàng không tìm thấy. NHẬN DẠNG"
+
+#: includes/settings_pages/general.php:33
+msgid "Order Status After Purchase"
+msgstr "Trạng thái đơn hàng sau khi mua"
+
+#: includes/classes/Gateway.php:161
+msgid "Order status set to "
+msgstr "Trạng thái đơn hàng được đặt thành"
+
+#: includes/settings_pages/general.php:207
+msgid "Orders Table"
+msgstr "Bảng đơn hàng"
+
+#: includes/withdrawal-requests.php:617 includes/withdrawal-requests.php:632
+#: includes/pages/withdrawal_requests.php:113
+#: includes/pages/withdrawal_requests.php:122
+msgid "Owner Name"
+msgstr "Tên chủ sở hữu"
+
+#: includes/withdrawal-requests.php:301 includes/withdrawal-requests.php:509
+msgid "Owner Name *"
+msgstr "Tên chủ sở hữu *"
+
+#: includes/withdrawal-requests.php:426
+msgid "Paese *"
+msgstr "Làng bản *"
+
+#: includes/classes/FS_WC_Wallet.php:1328
+#: includes/classes/FS_WC_Wallet.php:2010
+#: includes/classes/FS_WC_Wallet.php:2045
+#: includes/classes/FS_WC_Wallet.php:2110
+#: includes/classes/FS_WC_Wallet.php:2561 includes/classes/Gateway.php:233
+#: includes/pages/requests.php:104
+msgid "Paid From Wallet"
+msgstr "Được thanh toán từ ví"
+
+#: includes/classes/FS_WC_Wallet.php:2059
+msgid "Partial Payment"
+msgstr "Thanh toán một phần"
+
+#: includes/settings_pages/general.php:99
+msgid "Partial Payments"
+msgstr "Thanh toán một phần"
+
+#: includes/classes/Gateway.php:95
+msgid "Pay using your Wallet"
+msgstr "Thanh toán bằng Ví của bạn"
+
+#: includes/classes/Gateway.php:88
+msgid "Pay using your Wallet."
+msgstr "Thanh toán bằng Ví của bạn."
+
+#: includes/classes/Gateway.php:12
+msgid "Pay with your account balance."
+msgstr "Thanh toán bằng số dư tài khoản của bạn."
+
+#: includes/classes/Gateway.php:78
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "Mô tả phương thức thanh toán mà khách hàng sẽ thấy khi thanh toán."
+
+#: includes/classes/Gateway.php:86
+msgid "Payment method description that the customer will see on your website."
+msgstr ""
+"Mô tả phương thức thanh toán mà khách hàng sẽ thấy trên trang web của bạn."
+
+#: includes/classes/Wallet.php:402
+msgid "Payment refunded using Wallet Credit"
+msgstr "Khoản thanh toán được hoàn lại bằng tín dụng Wallet"
+
+#: includes/withdrawal-requests.php:99 includes/settings_pages/general.php:316
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/withdrawal-requests.php:135
+msgid "PayPal Address"
+msgstr "Địa chỉ PayPal"
+
+#: includes/settings_pages/fees.php:32 includes/settings_pages/fees.php:74
+#: includes/settings_pages/fees.php:114
+msgid "Percentage"
+msgstr "Tỷ lệ phần trăm"
+
+#: includes/withdrawal-requests.php:590
+#: includes/pages/withdrawal_requests.php:96
+msgid "Postcode"
+msgstr "Mã bưu điện"
+
+#: includes/withdrawal-requests.php:202
+msgid "Postcode *"
+msgstr "Mã bưu điện *"
+
+#: includes/settings_pages/general.php:86
+msgid "Processing"
+msgstr "Xử lý"
+
+#: includes/settings_pages/general.php:90
+msgid "Processing and Completed"
+msgstr "Đang xử lý và hoàn thành"
+
+#: includes/withdrawal-requests.php:419
+msgid "Provincia *"
+msgstr "Tỉnh *"
+
+#: includes/pages/requests.php:48 includes/pages/requests.php:190
+msgid "Reason"
+msgstr "Lý do"
+
+#: includes/classes/FS_WC_Wallet.php:2330
+msgid "Receiver email address"
+msgstr "Địa chỉ email của người nhận"
+
+#: includes/classes/FS_WC_Wallet.php:1347 includes/pages/requests.php:135
+#: includes/pages/requests.php:153
+msgid "Refund"
+msgstr "Đền bù"
+
+#: includes/frontend-html.php:4
+msgid "Refund Reason"
+msgstr "Lý do hoàn tiền"
+
+#: includes/classes/FS_WC_Wallet.php:2922
+#: includes/classes/FS_WC_Wallet.php:2923 includes/pages/requests.php:30
+msgid "Refund Requests"
+msgstr "Yêu cầu hoàn tiền"
+
+#: includes/settings_pages/general.php:185
+msgid "Refund Requests:"
+msgstr "Yêu cầu hoàn tiền:"
+
+#: includes/settings_pages/fees.php:20
+msgid "Refunds"
+msgstr "Hoàn tiền"
+
+#: includes/pages/requests.php:141 includes/pages/withdrawal_requests.php:165
+msgid "Reject Request"
+msgstr "Từ chối yêu cầu"
+
+#: includes/classes/FS_WC_Wallet.php:1753
+#: includes/classes/FS_WC_Wallet.php:1803
+msgid "Remove"
+msgstr "Di dời"
+
+#: includes/withdrawal-requests.php:675
+msgid "Request Accepted"
+msgstr "Yêu cầu được chấp nhận"
+
+#: includes/pages/requests.php:49 includes/pages/requests.php:191
+msgid "Request Date"
+msgstr "Ngày yêu cầu"
+
+#: includes/pages/requests.php:44 includes/pages/requests.php:186
+#: includes/pages/withdrawal_requests.php:50
+#: includes/pages/withdrawal_requests.php:212
+msgid "Request ID"
+msgstr "ID yêu cầu"
+
+#: includes/frontend-html.php:9 includes/classes/FS_WC_Wallet.php:695
+#: includes/classes/FS_WC_Wallet.php:730
+msgid "Request Refund"
+msgstr "Yêu cầu hoàn tiền"
+
+#: includes/settings_pages/general.php:199
+msgid "Request refund button position"
+msgstr "Yêu cầu vị trí nút hoàn tiền"
+
+#: includes/withdrawal-requests.php:679 includes/classes/FS_WC_Wallet.php:690
+#: includes/classes/FS_WC_Wallet.php:725 includes/pages/requests.php:156
+#: includes/pages/withdrawal_requests.php:174
+msgid "Request Rejected"
+msgstr "Yêu cầu bị từ chối"
+
+#: includes/settings_pages/advanced.php:23
+msgid "Run database update script"
+msgstr "Chạy tập lệnh cập nhật cơ sở dữ liệu"
+
+#: includes/withdrawal-requests.php:342
+msgid "Savings  Account"
+msgstr "Tài khoản tiết kiệm"
+
+#: includes/withdrawal-requests.php:342
+msgid "Savings  Account *"
+msgstr "Tài khoản tiết kiệm *"
+
+#: includes/pages/wallets.php:71 includes/pages/wallets.php:73
+msgid "Search wallets"
+msgstr "Tìm kiếm ví"
+
+#: includes/withdrawal-requests.php:95 includes/withdrawal-requests.php:97
+msgid "Select Payment Method"
+msgstr "Chọn phương thức thanh toán"
+
+#: includes/classes/FS_WC_Wallet.php:2336
+msgid "Send"
+msgstr "Gửi"
+
+#: includes/classes/FS_WC_Wallet.php:2314
+#: includes/classes/Send_Money_Endpoint.php:39
+#: includes/classes/Send_Money_Endpoint.php:54
+msgid "Send Money"
+msgstr "Gửi tiền"
+
+#: includes/withdrawal-requests.php:539
+msgid "Send Request"
+msgstr "Gửi yêu cầu"
+
+#: includes/functions.php:18
+msgid "Sep"
+msgstr "tháng 9"
+
+#: includes/withdrawal-requests.php:379
+msgid "Sesso *"
+msgstr "Giới tính *"
+
+#: includes/classes/FS_WC_Wallet.php:2964
+#: includes/classes/FS_WC_Wallet.php:2965 includes/pages/settings.php:14
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: includes/settings_pages/general.php:134
+msgid "Show all users in the wallet dashboard:"
+msgstr "Hiển thị tất cả người dùng trong bảng điều khiển ví:"
+
+#: includes/settings_pages/general.php:290
+msgid "Show both options, pre-made packages and custom inputs"
+msgstr "Hiển thị cả hai tùy chọn, gói được tạo sẵn và đầu vào tùy chỉnh"
+
+#: includes/settings_pages/general.php:153
+msgid "Show make a deposit page in my account page"
+msgstr "Hiển thị trang gửi tiền trong trang tài khoản của tôi"
+
+#: includes/classes/Transactions_History_Endpoint.php:70
+msgid "Show printable view"
+msgstr "Hiển thị chế độ xem có thể in"
+
+#: includes/settings_pages/general.php:237
+msgid "Show the balance to the right of the menu"
+msgstr "Hiển thị số dư ở bên phải menu"
+
+#: includes/settings_pages/general.php:215
+msgid "Show the wallet balance in the menu:"
+msgstr "Hiển thị số dư ví trong menu:"
+
+#: includes/settings_pages/general.php:177
+msgid "Show transactions in my account page"
+msgstr "Hiển thị các giao dịch trong trang tài khoản của tôi"
+
+#: includes/settings_pages/general.php:144
+msgid "Show users that never had a transaction using the wallet."
+msgstr "Hiển thị cho người dùng chưa bao giờ thực hiện giao dịch bằng ví."
+
+#: includes/withdrawal-requests.php:494
+msgid "Sort Code"
+msgstr "Mã sắp xếp"
+
+#: includes/withdrawal-requests.php:195 includes/withdrawal-requests.php:589
+#: includes/pages/withdrawal_requests.php:95
+msgid "State"
+msgstr "Tình trạng"
+
+#: includes/withdrawal-requests.php:556 includes/withdrawal-requests.php:692
+#: includes/pages/add_funds.php:43 includes/pages/edit_wallet.php:123
+msgid "Status"
+msgstr "Trạng thái"
+
+#: includes/withdrawal-requests.php:109
+msgid "SWIFT"
+msgstr "NHANH"
+
+#: includes/settings_pages/general.php:328
+msgid "SWIFT bank transfer"
+msgstr "Chuyển khoản ngân hàng SWIFT"
+
+#: includes/withdrawal-requests.php:596
+#: includes/pages/withdrawal_requests.php:100
+msgid "SWIFT Code"
+msgstr "Mã SWIFT"
+
+#: includes/withdrawal-requests.php:233
+msgid "SWIFT Code *"
+msgstr "Mã SWIFT *"
+
+#: includes/classes/FS_WC_Wallet.php:2289
+msgid "The amount have been sent."
+msgstr "Số tiền đã được gửi."
+
+#: includes/pages/wallets.php:220
+msgid "The amount will be added to the current balance."
+msgstr "Số tiền sẽ được thêm vào số dư hiện tại."
+
+#: includes/pages/wallets.php:276
+msgid ""
+"The amount will be substracted from the current balance, If the amount is "
+"larger than the current balance the operation will fail."
+msgstr ""
+"Số tiền sẽ được trừ vào số dư hiện tại. Nếu số tiền lớn hơn số dư hiện tại "
+"thì thao tác sẽ không thành công."
+
+#: includes/settings_pages/encryption.php:15
+msgid ""
+"The encryption keys used to encrypt wallet balances to prevent tempering if "
+"the database is hacked"
+msgstr ""
+"Các khóa mã hóa được sử dụng để mã hóa số dư trong ví nhằm ngăn chặn việc xử "
+"lý nếu cơ sở dữ liệu bị hack"
+
+#: includes/settings_pages/encryption.php:48
+msgid "The key used to encrypt/decrypt license keys in the database"
+msgstr "Khóa dùng để mã hóa/giải mã khóa cấp phép trong cơ sở dữ liệu"
+
+#: includes/settings_pages/general.php:284
+msgid "The minimum and maximum does not affect the predefined values."
+msgstr ""
+"Giá trị tối thiểu và tối đa không ảnh hưởng đến các giá trị được xác định "
+"trước."
+
+#: includes/pages/wallets.php:58
+msgid ""
+"The new version includes a database update. I highly recommend creating a "
+"database backup for safety before updating the database."
+msgstr ""
+"Phiên bản mới bao gồm bản cập nhật cơ sở dữ liệu. Tôi thực sự khuyên bạn nên "
+"tạo bản sao lưu cơ sở dữ liệu để đảm bảo an toàn trước khi cập nhật cơ sở dữ "
+"liệu."
+
+#: includes/settings_pages/encryption.php:62
+msgid "The VI used to encrypt/decrypt license keys in the database"
+msgstr ""
+"VI được sử dụng để mã hóa/giải mã các khóa cấp phép trong cơ sở dữ liệu"
+
+#: includes/pages/withdrawal_requests.php:204
+msgid "There are no withdrawal requests"
+msgstr "Không có yêu cầu rút tiền"
+
+#: includes/pages/requests.php:178
+msgid "There is no refund requests"
+msgstr "Không có yêu cầu hoàn lại tiền"
+
+#: includes/withdrawal-requests.php:706
+msgid "There is no requests"
+msgstr "Không có yêu cầu nào"
+
+#: includes/transactions_table_html.php:179
+#: includes/transactions_table_html.php:332
+msgid "There is no transactions"
+msgstr "Không có giao dịch"
+
+#: includes/pages/wallets.php:194
+msgid ""
+"There is no user wallets, the user need to make a deposit or an admiin add "
+"funds the user to appear here"
+msgstr ""
+"Không có ví người dùng, người dùng cần gửi tiền hoặc quản trị viên thêm tiền "
+"để người dùng xuất hiện ở đây"
+
+#: includes/classes/Gateway.php:76
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: includes/classes/FS_WC_Wallet.php:1445
+#: includes/classes/FS_WC_Wallet.php:2818
+msgid "to your Wallet balance"
+msgstr "vào số dư trên Wallet của bạn"
+
+#: includes/classes/FS_WC_Wallet.php:174
+msgid "Top up can't be a 0 or a negative value"
+msgstr "Nạp tiền không được là số 0 hoặc giá trị âm"
+
+#: includes/settings_pages/general.php:78
+msgid "Top up user wallet on order status:"
+msgstr "Nạp tiền vào ví người dùng theo trạng thái đơn hàng:"
+
+#: includes/settings_pages/general.php:149
+msgid "Top Up/Add Funds:"
+msgstr "Nạp tiền/Thêm tiền:"
+
+#: includes/pages/edit_wallet.php:91 includes/pages/wallets.php:91
+#: includes/pages/wallets.php:206
+msgid "Total Spent"
+msgstr "Tổng chi tiêu"
+
+#: includes/classes/FS_WC_Wallet.php:2945
+#: includes/classes/FS_WC_Wallet.php:2946 includes/pages/transactions.php:24
+msgid "Transactions"
+msgstr "Giao dịch"
+
+#: includes/classes/Transactions_History_Endpoint.php:39
+#: includes/classes/Transactions_History_Endpoint.php:54
+msgid "Transactions History"
+msgstr "Lịch sử giao dịch"
+
+#: includes/settings_pages/general.php:173
+msgid "Transactions:"
+msgstr "Giao dịch:"
+
+#: includes/classes/FS_WC_Wallet.php:513
+msgid "Transfer fee"
+msgstr "Phí chuyển nhượng"
+
+#: includes/pages/edit_wallet.php:145
+msgid "Unavailable Funds"
+msgstr "Tiền không khả dụng"
+
+#: includes/withdrawal-requests.php:671
+msgid "Under Review"
+msgstr "Đang được xem xét"
+
+#: includes/pages/wallets.php:159
+msgid "Unlock"
+msgstr "Mở khóa"
+
+#: includes/pages/add_funds.php:47 includes/pages/edit_wallet.php:127
+msgid "Unlocked"
+msgstr "Đã mở khóa"
+
+#: includes/transactions_table_html.php:249
+#: includes/transactions_table_html.php:343 includes/pages/edit_wallet.php:60
+#: includes/pages/requests.php:46 includes/pages/requests.php:188
+msgid "User"
+msgstr "người dùng"
+
+#: includes/pages/withdrawal_requests.php:51
+#: includes/pages/withdrawal_requests.php:213
+msgid "User ID"
+msgstr "ID người dùng"
+
+#: includes/transactions_table_html.php:102
+#: includes/transactions_table_html.php:112 includes/pages/requests.php:80
+#: includes/pages/wallets.php:148
+msgid "User Not Found. ID "
+msgstr "Không tìm thấy người dùng. NHẬN DẠNG"
+
+#: includes/settings_pages/fees.php:102
+msgid "User to User Transfers"
+msgstr "Chuyển giao người dùng sang người dùng"
+
+#: includes/settings_pages/general.php:161
+msgid "User To User Transfers:"
+msgstr "Chuyển từ người dùng sang người dùng:"
+
+#: includes/pages/wallets.php:88 includes/pages/wallets.php:203
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: includes/pages/add_funds.php:25
+msgid "Username Or Email"
+msgstr "Tên người dùng hoặc Email"
+
+#: includes/transactions_table_html.php:62
+msgid "Username/Email"
+msgstr "Tên người dùng/Email"
+
+#: includes/withdrawal-requests.php:395
+msgid "Via/Piazza e numero *"
+msgstr "Đường/Hình vuông và số nhà *"
+
+#: includes/transactions_table_html.php:121
+#: includes/transactions_table_html.php:128
+#: includes/transactions_table_html.php:287
+#: includes/transactions_table_html.php:294 includes/pages/requests.php:127
+msgid "View Order"
+msgstr "Xem đơn hàng"
+
+#: includes/classes/FS_WC_Wallet.php:1887
+#: includes/classes/FS_WC_Wallet.php:1903
+#: includes/classes/FS_WC_Wallet.php:2703
+msgid "Wallet Cashback"
+msgstr "Hoàn tiền bằng ví"
+
+#: includes/classes/FS_WC_Wallet.php:1876
+msgid "Wallet Credit"
+msgstr "Tín dụng Ví"
+
+#: includes/classes/FS_WC_Wallet.php:1423
+#: includes/classes/FS_WC_Wallet.php:1424
+msgid "Wallet manually modified"
+msgstr "Ví được sửa đổi thủ công"
+
+#: includes/classes/FS_WC_Wallet.php:2163
+#: includes/classes/FS_WC_Wallet.php:2203
+msgid "Wallet top up"
+msgstr "Nạp tiền vào ví"
+
+#: includes/classes/FS_WC_Wallet.php:2898
+#: includes/classes/FS_WC_Wallet.php:2899 includes/pages/wallets.php:68
+msgid "Wallets"
+msgstr "Ví"
+
+#: includes/classes/FS_WC_Wallet.php:1445
+#: includes/classes/FS_WC_Wallet.php:2818
+msgid "We have added"
+msgstr "Chúng tôi đã thêm"
+
+#: includes/classes/FS_WC_Wallet.php:1447
+#: includes/classes/FS_WC_Wallet.php:1448
+#: includes/classes/FS_WC_Wallet.php:2820
+#: includes/classes/FS_WC_Wallet.php:2821
+msgid "We have added funds to your Wallet!"
+msgstr "Chúng tôi đã thêm tiền vào Ví của bạn!"
+
+#: includes/pages/wallets.php:153
+msgid "Withdraw"
+msgstr "Rút"
+
+#: includes/pages/wallets.php:274
+msgid "Withdraw Credit"
+msgstr "Rút tín dụng"
+
+#: includes/classes/FS_WC_Wallet.php:419
+msgid "Withdrawal fee"
+msgstr "Phí rút tiền"
+
+#: includes/classes/FS_WC_Wallet.php:416
+msgid "Withdrawal request"
+msgstr "Yêu cầu rút tiền"
+
+#: includes/withdrawal-requests.php:64
+msgid "Withdrawal request sent."
+msgstr "Yêu cầu rút tiền đã được gửi."
+
+#: includes/withdrawal-requests.php:37 includes/classes/FS_WC_Wallet.php:2934
+#: includes/classes/FS_WC_Wallet.php:2935
+#: includes/classes/Withdrawal_Requests_Endpoint.php:39
+#: includes/classes/Withdrawal_Requests_Endpoint.php:54
+#: includes/pages/withdrawal_requests.php:36
+msgid "Withdrawal Requests"
+msgstr "Yêu cầu rút tiền"
+
+#: includes/settings_pages/fees.php:62
+msgid "Withdrawals"
+msgstr "Rút tiền"
+
+#: includes/settings_pages/general.php:301
+msgid "Withdrawals:"
+msgstr "Rút tiền:"
+
+#: includes/pages/wallets.php:313
+msgid "Withraw Funds"
+msgstr "Rút tiền"
+
+#: includes/classes/FS_WC_Wallet.php:17
+msgid ""
+"WooCommerce need to be installed and activated to be able to use "
+"\"WooCommerce Wallet\"."
+msgstr ""
+"WooC Commerce cần được cài đặt và kích hoạt để có thể sử dụng \"Ví WooC "
+"Commerce\"."
+
+#: includes/classes/Gateway.php:11 includes/classes/Gateway.php:80
+msgid "WooCommerce Wallet"
+msgstr "Ví WooC Commerce"
+
+#: includes/classes/FS_WC_Wallet.php:3120
+msgid "WooCommerce Wallet Credit"
+msgstr "Tín dụng ví WooC Commerce"
+
+#: includes/classes/FS_WC_Wallet.php:1754
+#: includes/classes/FS_WC_Wallet.php:1804
+msgid "Would you like to remove wallet partial payment?"
+msgstr "Bạn có muốn xóa thanh toán một phần ví không?"
+
+msgid ""
+"You can't mix top-up products and normal products in one order, please "
+"remove one of them."
+msgstr ""
+"Bạn không thể kết hợp sản phẩm nạp tiền và sản phẩm thông thường trong một "
+"đơn hàng, vui lòng loại bỏ một trong số chúng."
+
+#: includes/classes/FS_WC_Wallet.php:2268
+msgid "You can't send money to yourself."
+msgstr "Bạn không thể gửi tiền cho chính mình."
+
+#: includes/classes/FS_WC_Wallet.php:1762
+#: includes/classes/FS_WC_Wallet.php:1812
+msgid "You have "
+msgstr "bạn có"
+
+#: includes/classes/FS_WC_Wallet.php:1512
+#: includes/classes/FS_WC_Wallet.php:1513
+msgid "Your account have been locked"
+msgstr "Tài khoản của bạn đã bị khóa"
+
+#: includes/classes/FS_WC_Wallet.php:1526
+#: includes/classes/FS_WC_Wallet.php:1527
+msgid "Your account have been unlocked"
+msgstr "Tài khoản của bạn đã được mở khóa"
+
+#: includes/withdrawal-requests.php:39
+#: includes/classes/Transactions_History_Endpoint.php:69
+msgid "Your current balance is: "
+msgstr "Số dư hiện tại của bạn là:"
+
+#: includes/classes/FS_WC_Wallet.php:1510
+msgid ""
+"Your wallet balance have been locked, you can no longer use it to pay for "
+"products."
+msgstr ""
+"Số dư trong ví của bạn đã bị khóa, bạn không thể sử dụng số dư đó để thanh "
+"toán cho sản phẩm nữa."
+
+#: includes/classes/FS_WC_Wallet.php:1525
+msgid "Your wallet balance have been unlocked."
+msgstr "Số dư ví của bạn đã được mở khóa."
+
+#: includes/classes/FS_WC_Wallet.php:2571
+msgid "Your wallet credit is locked for the following reason:"
+msgstr "Tín dụng ví của bạn bị khóa vì lý do sau:"
+
+#: includes/classes/FS_WC_Wallet.php:2242
+msgid "Your wallet is locked"
+msgstr "Ví của bạn bị khóa"
+
+#: includes/withdrawal-requests.php:51
+msgid "Your wallet is locked; you can't send withdrawal requests."
+msgstr "Ví của bạn bị khóa; bạn không thể gửi yêu cầu rút tiền."
+
+#: includes/classes/FS_WC_Wallet.php:2244
+msgid "Your wallet is not locked"
+msgstr "Ví của bạn không bị khóa"
