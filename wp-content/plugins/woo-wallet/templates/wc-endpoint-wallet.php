@@ -67,9 +67,7 @@ $menu_items                = apply_filters(
 	<div class="woo-wallet-content">
 		<div class="woo-wallet-content-heading">
 			<h3 class="woo-wallet-content-h3"><?php esc_html_e( 'Balance', 'woo-wallet' ); ?></h3>
-			<p class="woo-wallet-price"><?php echo woo_wallet()->wallet->get_wallet_balance( get_current_user_id() );
-			 // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
-			 ?></p>
+			<p class="woo-wallet-price"><?php echo woo_wallet()->wallet->get_wallet_balance( get_current_user_id() ); // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped ?></p>
 		</div>
 		<div style="clear: both"></div>
 		<hr/>
@@ -114,17 +112,14 @@ $menu_items                = apply_filters(
 					</p>
 				</form>
 
-				<?php 
-	if ( apply_filters( 'woo_wallet_is_enable_bank_transfer', true ) ) { 
-    // Hiển thị form yêu cầu rút tiền
-    ?> 
+				<?php } elseif ( apply_filters( 'woo_wallet_is_enable_bank_transfer', true ) ) { ?> 
     <form method="post" action="" id="woo_wallet_bank_transfer_form">
         <p class="woo-wallet-field-container form-row form-row-wide">
             <label for="woo_wallet_bank_account_name"><?php esc_html_e( 'Tên chủ tài khoản', 'woo-wallet' ); ?></label>
             <input type="text" name="woo_wallet_bank_account_name" required=""/>
         </p>
         <p class="woo-wallet-field-container form-row form-row-wide">
-            <label for="woo_wallet_bank_name"><?php esc_html_e( 'Tên ngân hàng', 'woo-wallet' ); ?></label>
+            <label for="woo_wallet_bank_name"><?php esc_html_e( 'Bank Name', 'woo-wallet' ); ?></label>
             <input type="text" name="woo_wallet_bank_name" required=""/>
         </p>
         <p class="woo-wallet-field-container form-row form-row-wide">
@@ -140,52 +135,47 @@ $menu_items                = apply_filters(
             <input type="submit" class="button" name="woo_wallet_bank_transfer_fund" value="<?php esc_html_e( 'Chuyển khoản', 'woo-wallet' ); ?>" />
         </p>
     </form>
-    <?php 
+    <?php
 
-    // Kiểm tra xem form có được submit hay không
-    if ( isset( $_POST['woo_wallet_bank_transfer_fund'] ) ) {
-        // Lấy thông tin từ form
-        $bank_account_name = sanitize_text_field( $_POST['woo_wallet_bank_account_name'] );
-        $bank_name = sanitize_text_field( $_POST['woo_wallet_bank_name'] );
-        $bank_account_number = sanitize_text_field( $_POST['woo_wallet_bank_account_number'] );
-        $bank_transfer_amount = floatval( $_POST['woo_wallet_bank_transfer_amount'] );
+// Process bank transfer form data
+if ( isset( $_POST['woo_wallet_bank_transfer_fund'] ) ) {
+    // Retrieve and sanitize form data
+    $bank_account_name = sanitize_text_field( $_POST['woo_wallet_bank_account_name'] );
+    $bank_name = sanitize_text_field( $_POST['woo_wallet_bank_name'] );
+    $bank_account_number = sanitize_text_field( $_POST['woo_wallet_bank_account_number'] );
+    $bank_transfer_amount = floatval( $_POST['woo_wallet_bank_transfer_amount'] );
 
-        // Lấy thông tin người dùng hiện tại
-        $current_user = wp_get_current_user();
+    // Save bank transfer data to database or temporary storage
+    // For now, let's just output the received data
+    echo 'Bank Account Name: ' . $bank_account_name . '<br>';
+    echo 'Bank Name: ' . $bank_name . '<br>';
+    echo 'Bank Account Number: ' . $bank_account_number . '<br>';
+    echo 'Transfer Amount: ' . wc_price( $bank_transfer_amount ) . '<br>';
 
-        // Kiểm tra số dư ví của người dùng
-        $user_wallet_balance = woo_wallet()->wallet->get_wallet_balance( $current_user->ID );
+    // Get current user object
+    $current_user = wp_get_current_user();
+    
+    // Format transfer amount using WooCommerce currency settings
+    $formatted_transfer_amount = wc_price( $bank_transfer_amount );
 
-        if ( $user_wallet_balance >= $bank_transfer_amount ) {
-            // Trừ số tiền từ số dư ví
-            $new_balance = $user_wallet_balance - $bank_transfer_amount;
-            update_user_meta( $current_user->ID, 'wallet_balance', $new_balance );
+    // Remove HTML tags and entities from the formatted amount
+    $formatted_transfer_amount = wp_strip_all_tags( html_entity_decode( $formatted_transfer_amount ) );
 
-            // Cập nhật số dư ví hiển thị
-            echo '<script>
-                document.querySelector(".woo-wallet-price").innerHTML = "' . wc_price( $new_balance ) . '";
-            </script>';
+    // Get admin email address
+    $admin_email = get_bloginfo( 'admin_email' );
 
-            // Gửi email thông báo cho quản trị viên
-            $admin_email = get_bloginfo( 'admin_email' );
-            $subject = 'Yêu cầu rút tiền về tài khoản ngân hàng';
-            $message = 'Một yêu cầu rút tiền về tài khoản ngân hàng đã được thực hiện bởi người dùng: ' . $current_user->display_name . '. Vui lòng kiểm tra và xử lý.
-            
-            Tên chủ tài khoản: ' . $bank_account_name . '
-            Tên ngân hàng: ' . $bank_name . '
-            Số tài khoản ngân hàng: ' . $bank_account_number . '
-            Số tiền: ' . wc_price( $bank_transfer_amount );
-            wp_mail( $admin_email, $subject, $message );
+    // Notification to admin
+    $subject = 'Bank Transfer Request';
+    $message = 'A bank transfer request has been made by user: ' . $current_user->display_name . '. Please review and process.
+                
+                Bank Account Name: ' . $bank_account_name . '
+                Bank Name: ' . $bank_name . '
+                Bank Account Number: ' . $bank_account_number . '
+                Transfer Amount: ' . $formatted_transfer_amount;
 
-            // Hiển thị thông báo thành công cho người dùng
-            echo '<div class="woo-wallet-success-message">Yêu cầu rút tiền đã được gửi thành công. Vui lòng kiểm tra email để xem thông tin chi tiết.</div>';
-        } else {
-            // Hiển thị thông báo lỗi cho người dùng
-            echo '<div class="woo-wallet-error-message">Số dư ví của bạn không đủ để thực hiện yêu cầu rút tiền.</div>';
-        }
-    }
+    wp_mail( $admin_email, $subject, $message );
 }
-?>
+} ?>
 			<?php do_action( 'woo_wallet_menu_content' ); ?>
 		<?php } elseif ( apply_filters( 'woo_wallet_is_enable_transaction_details', true ) ) { ?>
 			<?php $transactions = get_wallet_transactions( array( 'limit' => apply_filters( 'woo_wallet_transactions_count', 10 ) ) ); ?>
@@ -216,3 +206,4 @@ $menu_items                = apply_filters(
 </div>
 <?php
 do_action( 'woo_wallet_after_my_wallet_content' );
+
